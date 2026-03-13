@@ -1,0 +1,5778 @@
+{
+  "Agartala": {
+    "Elevation": 16.6735,
+    "Slope": 0.2416,
+    "TPI": -2.6735,
+    "Industry": 4.4502,
+    "latest": {
+      "AQI": 40.0,
+      "AQI_lag1": 40.0,
+      "AQI_lag3": 42.0,
+      "AQI_lag5": 63.0,
+      "AQI_lag7": 42.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Agra": {
+    "Elevation": 170.3061,
+    "Slope": 0.4861,
+    "TPI": -2.3061,
+    "Industry": 12.1484,
+    "latest": {
+      "AQI": 126.0,
+      "AQI_lag1": 116.0,
+      "AQI_lag3": 162.0,
+      "AQI_lag5": 152.0,
+      "AQI_lag7": 188.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ahmedabad": {
+    "Elevation": 48.551,
+    "Slope": 0.6792,
+    "TPI": 0.449,
+    "Industry": 17.5529,
+    "latest": {
+      "AQI": 82.0,
+      "AQI_lag1": 113.0,
+      "AQI_lag3": 123.0,
+      "AQI_lag5": 192.0,
+      "AQI_lag7": 126.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ahmednagar": {
+    "Elevation": 878.0816,
+    "Slope": 0.9327,
+    "TPI": -11.0816,
+    "Industry": 7.853,
+    "latest": {
+      "AQI": 44.0,
+      "AQI_lag1": 69.0,
+      "AQI_lag3": 91.0,
+      "AQI_lag5": 85.0,
+      "AQI_lag7": 130.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Aizawl": {
+    "Elevation": 16.6735,
+    "Slope": 0.2416,
+    "TPI": -2.6735,
+    "Industry": 0.9462,
+    "latest": {
+      "AQI": 24.0,
+      "AQI_lag1": 22.0,
+      "AQI_lag3": 25.0,
+      "AQI_lag5": 15.0,
+      "AQI_lag7": 20.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ajmer": {
+    "Elevation": 485.3061,
+    "Slope": 0.6546,
+    "TPI": -5.3061,
+    "Industry": 5.3085,
+    "latest": {
+      "AQI": 114.0,
+      "AQI_lag1": 97.0,
+      "AQI_lag3": 119.0,
+      "AQI_lag5": 260.0,
+      "AQI_lag7": 100.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Akola": {
+    "Elevation": 283.3673,
+    "Slope": 0.4252,
+    "TPI": -2.3673,
+    "Industry": 17.0694,
+    "latest": {
+      "AQI": 26.0,
+      "AQI_lag1": 34.0,
+      "AQI_lag3": 67.0,
+      "AQI_lag5": 114.0,
+      "AQI_lag7": 97.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Alwar": {
+    "Elevation": 264.1224,
+    "Slope": 0.2897,
+    "TPI": -0.1224,
+    "Industry": 11.2921,
+    "latest": {
+      "AQI": 108.0,
+      "AQI_lag1": 105.0,
+      "AQI_lag3": 178.0,
+      "AQI_lag5": 234.0,
+      "AQI_lag7": 104.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Amaravati": {
+    "Elevation": 23.6939,
+    "Slope": 0.1495,
+    "TPI": 0.3061,
+    "Industry": 36.5135,
+    "latest": {
+      "AQI": 50.0,
+      "AQI_lag1": 31.0,
+      "AQI_lag3": 21.0,
+      "AQI_lag5": 64.0,
+      "AQI_lag7": 28.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ambala": {
+    "Elevation": 274.551,
+    "Slope": 0.3448,
+    "TPI": 5.449,
+    "Industry": 20.0206,
+    "latest": {
+      "AQI": 312.0,
+      "AQI_lag1": 234.0,
+      "AQI_lag3": 147.0,
+      "AQI_lag5": 89.0,
+      "AQI_lag7": 70.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Amravati": {
+    "Elevation": 350.898,
+    "Slope": 0.2231,
+    "TPI": -0.898,
+    "Industry": 22.4751,
+    "latest": {
+      "AQI": 46.0,
+      "AQI_lag1": 41.0,
+      "AQI_lag3": 79.0,
+      "AQI_lag5": 101.0,
+      "AQI_lag7": 141.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Amritsar": {
+    "Elevation": 232.6735,
+    "Slope": 0.3483,
+    "TPI": 0.3265,
+    "Industry": 7.1642,
+    "latest": {
+      "AQI": 156.0,
+      "AQI_lag1": 126.0,
+      "AQI_lag3": 186.0,
+      "AQI_lag5": 224.0,
+      "AQI_lag7": 73.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Anantapur": {
+    "Elevation": 349.2041,
+    "Slope": 0.4264,
+    "TPI": 0.7959,
+    "Industry": 10.5644,
+    "latest": {
+      "AQI": 73.0,
+      "AQI_lag1": 69.0,
+      "AQI_lag3": 69.0,
+      "AQI_lag5": 54.0,
+      "AQI_lag7": 82.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Angul": {
+    "Elevation": 132.3878,
+    "Slope": 0.6878,
+    "TPI": 8.6122,
+    "Industry": 72.1015,
+    "latest": {
+      "AQI": 79.0,
+      "AQI_lag1": 172.0,
+      "AQI_lag3": 179.0,
+      "AQI_lag5": 209.0,
+      "AQI_lag7": 229.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ankleshwar": {
+    "Elevation": 38.6939,
+    "Slope": 0.455,
+    "TPI": 1.3061,
+    "Industry": 30.5741,
+    "latest": {
+      "AQI": 65.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 72.0,
+      "AQI_lag5": 114.0,
+      "AQI_lag7": 186.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Araria": {
+    "Elevation": 54.0204,
+    "Slope": 0.3158,
+    "TPI": 1.9796,
+    "Industry": 10.9633,
+    "latest": {
+      "AQI": 134.0,
+      "AQI_lag1": 100.0,
+      "AQI_lag3": 120.0,
+      "AQI_lag5": 222.0,
+      "AQI_lag7": 57.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ariyalur": {
+    "Elevation": 74.9796,
+    "Slope": 0.4495,
+    "TPI": -2.9796,
+    "Industry": 15.7278,
+    "latest": {
+      "AQI": 47.0,
+      "AQI_lag1": 19.0,
+      "AQI_lag3": 67.0,
+      "AQI_lag5": 27.0,
+      "AQI_lag7": 42.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Arrah": {
+    "Elevation": 62.4898,
+    "Slope": 0.3798,
+    "TPI": 0.5102,
+    "Industry": 17.2491,
+    "latest": {
+      "AQI": 51.0,
+      "AQI_lag1": 54.0,
+      "AQI_lag3": 131.0,
+      "AQI_lag5": 59.0,
+      "AQI_lag7": 51.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Asanol": {
+    "Elevation": 115.6939,
+    "Slope": 0.6004,
+    "TPI": -0.6939,
+    "Industry": 40.3699,
+    "latest": {
+      "AQI": 43.0,
+      "AQI_lag1": 48.0,
+      "AQI_lag3": 37.0,
+      "AQI_lag5": 23.0,
+      "AQI_lag7": 43.0,
+      "PM2.5": 66.4,
+      "PM2.5_lag3": 66.1,
+      "PM2.5_lag7": 70.2,
+      "PM10": 90.9,
+      "NO2": 27.2,
+      "SO2": 18.0
+    }
+  },
+  "Asansol": {
+    "Elevation": 116.8776,
+    "Slope": 0.6471,
+    "TPI": -0.8776,
+    "Industry": 40.4673,
+    "latest": {
+      "AQI": 107.0,
+      "AQI_lag1": 129.0,
+      "AQI_lag3": 122.0,
+      "AQI_lag5": 189.0,
+      "AQI_lag7": 173.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Aurangabad": {
+    "Elevation": 582.2653,
+    "Slope": 0.6711,
+    "TPI": 5.7347,
+    "Industry": 8.8407,
+    "latest": {
+      "AQI": 145.0,
+      "AQI_lag1": 160.0,
+      "AQI_lag3": 179.0,
+      "AQI_lag5": 73.5,
+      "AQI_lag7": 116.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Aurangabad\n(Maharashtra)": {
+    "Elevation": 577.898,
+    "Slope": 0.6807,
+    "TPI": -2.898,
+    "Industry": 8.8331,
+    "latest": {
+      "AQI": 88.0,
+      "AQI_lag1": 92.0,
+      "AQI_lag3": 126.0,
+      "AQI_lag5": 160.0,
+      "AQI_lag7": 106.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Aurangabad (Bihar)": {
+    "Elevation": 114.5306,
+    "Slope": 0.3405,
+    "TPI": 1.4694,
+    "Industry": 25.158,
+    "latest": {
+      "AQI": 110.0,
+      "AQI_lag1": 108.0,
+      "AQI_lag3": 131.0,
+      "AQI_lag5": 75.0,
+      "AQI_lag7": 58.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Baddi": {
+    "Elevation": 345.5918,
+    "Slope": 0.4512,
+    "TPI": 0.4082,
+    "Industry": 18.1406,
+    "latest": {
+      "AQI": 223.0,
+      "AQI_lag1": 193.0,
+      "AQI_lag3": 167.0,
+      "AQI_lag5": 180.0,
+      "AQI_lag7": 199.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Badlapur": {
+    "Elevation": 27.3878,
+    "Slope": 0.7273,
+    "TPI": -4.3878,
+    "Industry": 17.9658,
+    "latest": {
+      "AQI": 63.0,
+      "AQI_lag1": 66.0,
+      "AQI_lag3": 148.0,
+      "AQI_lag5": 94.0,
+      "AQI_lag7": 87.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bagalkot": {
+    "Elevation": 536.102,
+    "Slope": 0.5424,
+    "TPI": 4.898,
+    "Industry": 12.4539,
+    "latest": {
+      "AQI": 42.0,
+      "AQI_lag1": 42.0,
+      "AQI_lag3": 42.0,
+      "AQI_lag5": 42.0,
+      "AQI_lag7": 42.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Baghpat": {
+    "Elevation": 226.8163,
+    "Slope": 0.2091,
+    "TPI": -0.8163,
+    "Industry": 24.8515,
+    "latest": {
+      "AQI": 286.0,
+      "AQI_lag1": 249.0,
+      "AQI_lag3": 261.0,
+      "AQI_lag5": 267.0,
+      "AQI_lag7": 300.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bahadurgarh": {
+    "Elevation": 217.0408,
+    "Slope": 0.3791,
+    "TPI": 1.9592,
+    "Industry": 32.2052,
+    "latest": {
+      "AQI": 324.0,
+      "AQI_lag1": 318.0,
+      "AQI_lag3": 269.0,
+      "AQI_lag5": 306.0,
+      "AQI_lag7": 224.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Balasore": {
+    "Elevation": 18.3673,
+    "Slope": 0.5125,
+    "TPI": 2.6327,
+    "Industry": 11.7573,
+    "latest": {
+      "AQI": 156.0,
+      "AQI_lag1": 147.0,
+      "AQI_lag3": 150.0,
+      "AQI_lag5": 81.0,
+      "AQI_lag7": 135.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ballabgarh": {
+    "Elevation": 199.6531,
+    "Slope": 0.2225,
+    "TPI": 2.3469,
+    "Industry": 32.4097,
+    "latest": {
+      "AQI": 319.0,
+      "AQI_lag1": 245.0,
+      "AQI_lag3": 295.0,
+      "AQI_lag5": 303.0,
+      "AQI_lag7": 254.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Banswara": {
+    "Elevation": 198.3469,
+    "Slope": 0.4779,
+    "TPI": -0.3469,
+    "Industry": 10.0355,
+    "latest": {
+      "AQI": 123.0,
+      "AQI_lag1": 105.0,
+      "AQI_lag3": 99.0,
+      "AQI_lag5": 105.0,
+      "AQI_lag7": 90.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Baran": {
+    "Elevation": 272.2653,
+    "Slope": 0.5146,
+    "TPI": 2.7347,
+    "Industry": 22.3682,
+    "latest": {
+      "AQI": 185.0,
+      "AQI_lag1": 158.0,
+      "AQI_lag3": 157.0,
+      "AQI_lag5": 121.0,
+      "AQI_lag7": 159.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Barbil": {
+    "Elevation": 460.8163,
+    "Slope": 0.796,
+    "TPI": 3.1837,
+    "Industry": 22.3144,
+    "latest": {
+      "AQI": 208.0,
+      "AQI_lag1": 204.0,
+      "AQI_lag3": 164.0,
+      "AQI_lag5": 255.0,
+      "AQI_lag7": 184.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bareilly": {
+    "Elevation": 174.0408,
+    "Slope": 0.2376,
+    "TPI": -1.0408,
+    "Industry": 8.7335,
+    "latest": {
+      "AQI": 84.0,
+      "AQI_lag1": 86.0,
+      "AQI_lag3": 93.0,
+      "AQI_lag5": 124.0,
+      "AQI_lag7": 87.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Baripada": {
+    "Elevation": 41.8776,
+    "Slope": 0.6018,
+    "TPI": -5.8776,
+    "Industry": 14.3251,
+    "latest": {
+      "AQI": 104.0,
+      "AQI_lag1": 117.0,
+      "AQI_lag3": 115.0,
+      "AQI_lag5": 82.0,
+      "AQI_lag7": 126.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Barmer": {
+    "Elevation": 208.5714,
+    "Slope": 0.6676,
+    "TPI": -4.5714,
+    "Industry": 4.2662,
+    "latest": {
+      "AQI": 107.0,
+      "AQI_lag1": 121.0,
+      "AQI_lag3": 125.0,
+      "AQI_lag5": 159.0,
+      "AQI_lag7": 137.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Barrackpore": {
+    "Elevation": 11.2653,
+    "Slope": 0.2202,
+    "TPI": 0.7347,
+    "Industry": 24.2528,
+    "latest": {
+      "AQI": 83.0,
+      "AQI_lag1": 98.0,
+      "AQI_lag3": 108.0,
+      "AQI_lag5": 171.0,
+      "AQI_lag7": 97.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bathinda": {
+    "Elevation": 208.8776,
+    "Slope": 0.2142,
+    "TPI": -0.8776,
+    "Industry": 22.4105,
+    "latest": {
+      "AQI": 211.0,
+      "AQI_lag1": 227.0,
+      "AQI_lag3": 73.0,
+      "AQI_lag5": 136.0,
+      "AQI_lag7": 281.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Begusarai": {
+    "Elevation": 44.0,
+    "Slope": 0.3029,
+    "TPI": 1.0,
+    "Industry": 21.7372,
+    "latest": {
+      "AQI": 118.0,
+      "AQI_lag1": 122.0,
+      "AQI_lag3": 121.0,
+      "AQI_lag5": 203.0,
+      "AQI_lag7": 104.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Belapur": {
+    "Elevation": 532.4286,
+    "Slope": 0.5975,
+    "TPI": 6.5714,
+    "Industry": 11.2788,
+    "latest": {
+      "AQI": 51.0,
+      "AQI_lag1": 54.0,
+      "AQI_lag3": 97.0,
+      "AQI_lag5": 243.0,
+      "AQI_lag7": 192.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Belgaum": {
+    "Elevation": 763.3265,
+    "Slope": 0.7346,
+    "TPI": -7.3265,
+    "Industry": 4.9646,
+    "latest": {
+      "AQI": 49.0,
+      "AQI_lag1": 66.0,
+      "AQI_lag3": 61.0,
+      "AQI_lag5": 64.0,
+      "AQI_lag7": 27.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bengaluru": {
+    "Elevation": 922.7551,
+    "Slope": 0.7322,
+    "TPI": -2.7551,
+    "Industry": 7.8282,
+    "latest": {
+      "AQI": 60.0,
+      "AQI_lag1": 66.0,
+      "AQI_lag3": 72.0,
+      "AQI_lag5": 97.0,
+      "AQI_lag7": 54.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bettiah": {
+    "Elevation": 79.449,
+    "Slope": 0.2921,
+    "TPI": 1.551,
+    "Industry": 3.0786,
+    "latest": {
+      "AQI": 130.0,
+      "AQI_lag1": 150.0,
+      "AQI_lag3": 110.0,
+      "AQI_lag5": 100.0,
+      "AQI_lag7": 89.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhagalpur": {
+    "Elevation": 29.0816,
+    "Slope": 0.4182,
+    "TPI": -2.0816,
+    "Industry": 31.3598,
+    "latest": {
+      "AQI": 104.0,
+      "AQI_lag1": 76.0,
+      "AQI_lag3": 136.0,
+      "AQI_lag5": 192.0,
+      "AQI_lag7": 137.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bharatpur": {
+    "Elevation": 195.9184,
+    "Slope": 0.2574,
+    "TPI": 0.0816,
+    "Industry": 12.8508,
+    "latest": {
+      "AQI": 201.0,
+      "AQI_lag1": 209.0,
+      "AQI_lag3": 262.0,
+      "AQI_lag5": 245.0,
+      "AQI_lag7": 117.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhilai": {
+    "Elevation": 306.2857,
+    "Slope": 0.4737,
+    "TPI": 2.7143,
+    "Industry": 37.1318,
+    "latest": {
+      "AQI": 48.0,
+      "AQI_lag1": 56.0,
+      "AQI_lag3": 81.0,
+      "AQI_lag5": 47.0,
+      "AQI_lag7": 60.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhilwara": {
+    "Elevation": 431.4694,
+    "Slope": 0.7585,
+    "TPI": -1.4694,
+    "Industry": 6.6112,
+    "latest": {
+      "AQI": 159.0,
+      "AQI_lag1": 152.0,
+      "AQI_lag3": 184.0,
+      "AQI_lag5": 260.0,
+      "AQI_lag7": 111.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhiwadi": {
+    "Elevation": 260.1633,
+    "Slope": 0.4158,
+    "TPI": -1.1633,
+    "Industry": 21.3279,
+    "latest": {
+      "AQI": 300.0,
+      "AQI_lag1": 236.0,
+      "AQI_lag3": 239.0,
+      "AQI_lag5": 364.0,
+      "AQI_lag7": 256.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhiwandi": {
+    "Elevation": 12.551,
+    "Slope": 0.5823,
+    "TPI": -0.551,
+    "Industry": 18.0139,
+    "latest": {
+      "AQI": 42.0,
+      "AQI_lag1": 64.0,
+      "AQI_lag3": 74.0,
+      "AQI_lag5": 113.0,
+      "AQI_lag7": 99.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhiwani": {
+    "Elevation": 218.3673,
+    "Slope": 0.3723,
+    "TPI": 2.6327,
+    "Industry": 22.4106,
+    "latest": {
+      "AQI": 188.0,
+      "AQI_lag1": 162.0,
+      "AQI_lag3": 202.0,
+      "AQI_lag5": 327.0,
+      "AQI_lag7": 33.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhopal": {
+    "Elevation": 509.8776,
+    "Slope": 0.7763,
+    "TPI": 11.1224,
+    "Industry": 13.8542,
+    "latest": {
+      "AQI": 68.0,
+      "AQI_lag1": 182.0,
+      "AQI_lag3": 152.0,
+      "AQI_lag5": 235.0,
+      "AQI_lag7": 188.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bhubaneswar": {
+    "Elevation": 39.0408,
+    "Slope": 0.6838,
+    "TPI": 2.9592,
+    "Industry": 7.2901,
+    "latest": {
+      "AQI": 58.0,
+      "AQI_lag1": 92.0,
+      "AQI_lag3": 134.0,
+      "AQI_lag5": 139.0,
+      "AQI_lag7": 122.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bidar": {
+    "Elevation": 590.3265,
+    "Slope": 0.6186,
+    "TPI": 1.6735,
+    "Industry": 7.3791,
+    "latest": {
+      "AQI": 29.0,
+      "AQI_lag1": 28.0,
+      "AQI_lag3": 31.0,
+      "AQI_lag5": 29.0,
+      "AQI_lag7": 36.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bihar Sharif": {
+    "Elevation": 60.1429,
+    "Slope": 0.4029,
+    "TPI": 4.8571,
+    "Industry": 19.0397,
+    "latest": {
+      "AQI": 154.0,
+      "AQI_lag1": 162.0,
+      "AQI_lag3": 120.0,
+      "AQI_lag5": 182.0,
+      "AQI_lag7": 53.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bikaner": {
+    "Elevation": 228.4082,
+    "Slope": 0.5233,
+    "TPI": -2.4082,
+    "Industry": 4.1876,
+    "latest": {
+      "AQI": 180.0,
+      "AQI_lag1": 199.0,
+      "AQI_lag3": 215.0,
+      "AQI_lag5": 214.0,
+      "AQI_lag7": 252.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bilaspur": {
+    "Elevation": 282.2449,
+    "Slope": 0.4208,
+    "TPI": 3.7551,
+    "Industry": 69.4212,
+    "latest": {
+      "AQI": 53.0,
+      "AQI_lag1": 82.0,
+      "AQI_lag3": 96.0,
+      "AQI_lag5": 133.0,
+      "AQI_lag7": 95.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bileipada": {
+    "Elevation": 164.5102,
+    "Slope": 0.6162,
+    "TPI": -1.5102,
+    "Industry": 25.2349,
+    "latest": {
+      "AQI": 112.0,
+      "AQI_lag1": 190.0,
+      "AQI_lag3": 128.0,
+      "AQI_lag5": 142.0,
+      "AQI_lag7": 179.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Boisar": {
+    "Elevation": 12.3878,
+    "Slope": 0.4331,
+    "TPI": 3.6122,
+    "Industry": 16.8595,
+    "latest": {
+      "AQI": 72.0,
+      "AQI_lag1": 53.0,
+      "AQI_lag3": 141.0,
+      "AQI_lag5": 124.0,
+      "AQI_lag7": 71.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Brajrajnagar": {
+    "Elevation": 208.1429,
+    "Slope": 0.6899,
+    "TPI": 4.8571,
+    "Industry": 49.8336,
+    "latest": {
+      "AQI": 100.0,
+      "AQI_lag1": 80.0,
+      "AQI_lag3": 82.0,
+      "AQI_lag5": 89.0,
+      "AQI_lag7": 83.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bulandshahr": {
+    "Elevation": 202.2041,
+    "Slope": 0.182,
+    "TPI": 0.7959,
+    "Industry": 19.7281,
+    "latest": {
+      "AQI": 229.0,
+      "AQI_lag1": 238.0,
+      "AQI_lag3": 276.0,
+      "AQI_lag5": 225.0,
+      "AQI_lag7": 261.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Bundi": {
+    "Elevation": 238.1429,
+    "Slope": 0.1967,
+    "TPI": -0.1429,
+    "Industry": 11.6682,
+    "latest": {
+      "AQI": 190.0,
+      "AQI_lag1": 198.0,
+      "AQI_lag3": 162.0,
+      "AQI_lag5": 157.0,
+      "AQI_lag7": 157.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Buxar": {
+    "Elevation": 70.2449,
+    "Slope": 0.18,
+    "TPI": -0.2449,
+    "Industry": 18.5241,
+    "latest": {
+      "AQI": 60.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 71.0,
+      "AQI_lag5": 71.0,
+      "AQI_lag7": 72.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Byasanagar": {
+    "Elevation": 41.3265,
+    "Slope": 0.4653,
+    "TPI": 3.6735,
+    "Industry": 10.5162,
+    "latest": {
+      "AQI": 79.0,
+      "AQI_lag1": 101.0,
+      "AQI_lag3": 100.0,
+      "AQI_lag5": 137.0,
+      "AQI_lag7": 134.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Byrnihat": {
+    "Elevation": 101.6735,
+    "Slope": 0.9494,
+    "TPI": -34.6735,
+    "Industry": 1.0849,
+    "latest": {
+      "AQI": 85.0,
+      "AQI_lag1": 93.0,
+      "AQI_lag3": 104.0,
+      "AQI_lag5": 113.0,
+      "AQI_lag7": 103.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chamarajanagar": {
+    "Elevation": 755.4082,
+    "Slope": 0.9695,
+    "TPI": 29.5918,
+    "Industry": 5.3622,
+    "latest": {
+      "AQI": 48.0,
+      "AQI_lag1": 40.0,
+      "AQI_lag3": 54.0,
+      "AQI_lag5": 56.0,
+      "AQI_lag7": 40.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chandigarh": {
+    "Elevation": 345.5918,
+    "Slope": 0.4512,
+    "TPI": 0.4082,
+    "Industry": 18.7779,
+    "latest": {
+      "AQI": 105.0,
+      "AQI_lag1": 117.0,
+      "AQI_lag3": 122.0,
+      "AQI_lag5": 147.0,
+      "AQI_lag7": 118.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chandrapur": {
+    "Elevation": 245.2041,
+    "Slope": 0.7993,
+    "TPI": -9.2041,
+    "Industry": 38.2959,
+    "latest": {
+      "AQI": 64.0,
+      "AQI_lag1": 50.0,
+      "AQI_lag3": 74.0,
+      "AQI_lag5": 56.0,
+      "AQI_lag7": 130.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Charkhi Dadri": {
+    "Elevation": 226.6735,
+    "Slope": 0.3303,
+    "TPI": 0.3265,
+    "Industry": 25.0889,
+    "latest": {
+      "AQI": 269.0,
+      "AQI_lag1": 292.0,
+      "AQI_lag3": 268.0,
+      "AQI_lag5": 353.0,
+      "AQI_lag7": 78.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chengalpattu": {
+    "Elevation": 43.9388,
+    "Slope": 0.6394,
+    "TPI": -1.9388,
+    "Industry": 14.9155,
+    "latest": {
+      "AQI": 147.0,
+      "AQI_lag1": 122.0,
+      "AQI_lag3": 92.0,
+      "AQI_lag5": 146.0,
+      "AQI_lag7": 93.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chennai": {
+    "Elevation": 8.4694,
+    "Slope": 0.4033,
+    "TPI": 0.5306,
+    "Industry": 33.8852,
+    "latest": {
+      "AQI": 52.0,
+      "AQI_lag1": 71.0,
+      "AQI_lag3": 59.0,
+      "AQI_lag5": 142.0,
+      "AQI_lag7": 109.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chhal": {
+    "Elevation": 1815.6122,
+    "Slope": 1.0,
+    "TPI": -123.6122,
+    "Industry": 10.5391,
+    "latest": {
+      "AQI": 83.0,
+      "AQI_lag1": 95.0,
+      "AQI_lag3": 165.0,
+      "AQI_lag5": 105.0,
+      "AQI_lag7": 103.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chhapra": {
+    "Elevation": 57.0204,
+    "Slope": 0.3081,
+    "TPI": 0.9796,
+    "Industry": 15.6065,
+    "latest": {
+      "AQI": 67.0,
+      "AQI_lag1": 92.0,
+      "AQI_lag3": 160.0,
+      "AQI_lag5": 69.0,
+      "AQI_lag7": 59.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chikkaballapur": {
+    "Elevation": 900.1633,
+    "Slope": 0.7151,
+    "TPI": 0.8367,
+    "Industry": 6.0987,
+    "latest": {
+      "AQI": 39.0,
+      "AQI_lag1": 34.0,
+      "AQI_lag3": 44.0,
+      "AQI_lag5": 35.0,
+      "AQI_lag7": 35.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chikkamagaluru": {
+    "Elevation": 987.6327,
+    "Slope": 0.9849,
+    "TPI": -10.6327,
+    "Industry": 4.1438,
+    "latest": {
+      "AQI": 29.0,
+      "AQI_lag1": 50.0,
+      "AQI_lag3": 39.0,
+      "AQI_lag5": 50.0,
+      "AQI_lag7": 45.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chittoor": {
+    "Elevation": 97.6327,
+    "Slope": 0.285,
+    "TPI": -0.6327,
+    "Industry": 15.2879,
+    "latest": {
+      "AQI": 77.0,
+      "AQI_lag1": 122.0,
+      "AQI_lag3": 61.0,
+      "AQI_lag5": 77.0,
+      "AQI_lag7": 98.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Chittorgarh": {
+    "Elevation": 426.3878,
+    "Slope": 0.3567,
+    "TPI": 0.6122,
+    "Industry": 8.6232,
+    "latest": {
+      "AQI": 178.0,
+      "AQI_lag1": 219.0,
+      "AQI_lag3": 113.0,
+      "AQI_lag5": 131.0,
+      "AQI_lag7": 140.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Churu": {
+    "Elevation": 301.9592,
+    "Slope": 0.6771,
+    "TPI": -0.9592,
+    "Industry": 9.3788,
+    "latest": {
+      "AQI": 131.0,
+      "AQI_lag1": 148.0,
+      "AQI_lag3": 140.0,
+      "AQI_lag5": 220.0,
+      "AQI_lag7": 149.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Coimbatore": {
+    "Elevation": 421.2245,
+    "Slope": 0.5651,
+    "TPI": -3.2245,
+    "Industry": 5.2166,
+    "latest": {
+      "AQI": 49.0,
+      "AQI_lag1": 50.0,
+      "AQI_lag3": 28.0,
+      "AQI_lag5": 168.0,
+      "AQI_lag7": 70.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Cuddalore": {
+    "Elevation": 52.551,
+    "Slope": 0.5822,
+    "TPI": 1.449,
+    "Industry": 36.2366,
+    "latest": {
+      "AQI": 36.0,
+      "AQI_lag1": 36.0,
+      "AQI_lag3": 40.0,
+      "AQI_lag5": 90.0,
+      "AQI_lag7": 24.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Cuttack": {
+    "Elevation": 28.8163,
+    "Slope": 0.2289,
+    "TPI": -0.8163,
+    "Industry": 8.9883,
+    "latest": {
+      "AQI": 190.0,
+      "AQI_lag1": 159.0,
+      "AQI_lag3": 186.0,
+      "AQI_lag5": 72.0,
+      "AQI_lag7": 152.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Damoh": {
+    "Elevation": 356.898,
+    "Slope": 0.8254,
+    "TPI": -7.898,
+    "Industry": 14.9948,
+    "latest": {
+      "AQI": 64.0,
+      "AQI_lag1": 76.0,
+      "AQI_lag3": 81.0,
+      "AQI_lag5": 121.0,
+      "AQI_lag7": 83.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Darbhanga": {
+    "Elevation": 49.1837,
+    "Slope": 0.2505,
+    "TPI": -0.1837,
+    "Industry": 11.185,
+    "latest": {
+      "AQI": 342.0,
+      "AQI_lag1": 305.0,
+      "AQI_lag3": 354.0,
+      "AQI_lag5": 327.0,
+      "AQI_lag7": 407.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dausa": {
+    "Elevation": 337.0,
+    "Slope": 0.4692,
+    "TPI": 2.0,
+    "Industry": 10.97,
+    "latest": {
+      "AQI": 144.0,
+      "AQI_lag1": 158.0,
+      "AQI_lag3": 196.0,
+      "AQI_lag5": 223.0,
+      "AQI_lag7": 130.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Davanagere": {
+    "Elevation": 585.2449,
+    "Slope": 0.5211,
+    "TPI": -4.2449,
+    "Industry": 6.8299,
+    "latest": {
+      "AQI": 29.0,
+      "AQI_lag1": 30.0,
+      "AQI_lag3": 61.0,
+      "AQI_lag5": 29.0,
+      "AQI_lag7": 50.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dehradun": {
+    "Elevation": 673.4898,
+    "Slope": 0.7155,
+    "TPI": 1.5102,
+    "Industry": 11.528,
+    "latest": {
+      "AQI": 63.0,
+      "AQI_lag1": 57.0,
+      "AQI_lag3": 88.0,
+      "AQI_lag5": 74.0,
+      "AQI_lag7": 53.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Delhi": {
+    "Elevation": 218.7347,
+    "Slope": 0.4485,
+    "TPI": -3.7347,
+    "Industry": 48.5778,
+    "latest": {
+      "AQI": 309.0,
+      "AQI_lag1": 292.0,
+      "AQI_lag3": 305.0,
+      "AQI_lag5": 351.0,
+      "AQI_lag7": 296.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dewas": {
+    "Elevation": 506.3061,
+    "Slope": 0.418,
+    "TPI": -1.3061,
+    "Industry": 10.6515,
+    "latest": {
+      "AQI": 66.0,
+      "AQI_lag1": 137.0,
+      "AQI_lag3": 179.0,
+      "AQI_lag5": 177.0,
+      "AQI_lag7": 116.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dhanbad": {
+    "Elevation": 238.4898,
+    "Slope": 0.6982,
+    "TPI": 11.5102,
+    "Industry": 32.9277,
+    "latest": {
+      "AQI": 129.0,
+      "AQI_lag1": 134.0,
+      "AQI_lag3": 124.0,
+      "AQI_lag5": 207.0,
+      "AQI_lag7": 166.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dharuhera": {
+    "Elevation": 249.8776,
+    "Slope": 0.3724,
+    "TPI": 1.1224,
+    "Industry": 21.3444,
+    "latest": {
+      "AQI": 307.0,
+      "AQI_lag1": 312.0,
+      "AQI_lag3": 379.0,
+      "AQI_lag5": 305.0,
+      "AQI_lag7": 183.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dharwad": {
+    "Elevation": 651.0204,
+    "Slope": 0.8634,
+    "TPI": 5.9796,
+    "Industry": 6.8043,
+    "latest": {
+      "AQI": 60.0,
+      "AQI_lag1": 54.0,
+      "AQI_lag3": 79.0,
+      "AQI_lag5": 93.0,
+      "AQI_lag7": 75.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dholpur": {
+    "Elevation": 176.5918,
+    "Slope": 0.4233,
+    "TPI": 2.4082,
+    "Industry": 17.8018,
+    "latest": {
+      "AQI": 111.0,
+      "AQI_lag1": 131.0,
+      "AQI_lag3": 311.0,
+      "AQI_lag5": 276.0,
+      "AQI_lag7": 234.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dhule": {
+    "Elevation": 331.4048,
+    "Slope": 0.7065,
+    "TPI": 4.5952,
+    "Industry": 13.3134,
+    "latest": {
+      "AQI": 46.0,
+      "AQI_lag1": 51.0,
+      "AQI_lag3": 115.0,
+      "AQI_lag5": 264.0,
+      "AQI_lag7": 245.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dindigul": {
+    "Elevation": 306.0816,
+    "Slope": 0.4597,
+    "TPI": -2.0816,
+    "Industry": 7.1046,
+    "latest": {
+      "AQI": 37.0,
+      "AQI_lag1": 29.0,
+      "AQI_lag3": 188.0,
+      "AQI_lag5": 38.0,
+      "AQI_lag7": 49.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Dungarpur": {
+    "Elevation": 198.3469,
+    "Slope": 0.4779,
+    "TPI": -0.3469,
+    "Industry": 7.878,
+    "latest": {
+      "AQI": 125.0,
+      "AQI_lag1": 161.0,
+      "AQI_lag3": 112.0,
+      "AQI_lag5": 212.0,
+      "AQI_lag7": 91.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Durgapur": {
+    "Elevation": 89.2041,
+    "Slope": 0.6873,
+    "TPI": -2.2041,
+    "Industry": 57.4867,
+    "latest": {
+      "AQI": 78.0,
+      "AQI_lag1": 94.0,
+      "AQI_lag3": 98.0,
+      "AQI_lag5": 134.0,
+      "AQI_lag7": 92.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Eloor": {
+    "Elevation": 10.1837,
+    "Slope": 0.6535,
+    "TPI": 4.8163,
+    "Industry": 9.6112,
+    "latest": {
+      "AQI": 97.0,
+      "AQI_lag1": 76.0,
+      "AQI_lag3": 82.0,
+      "AQI_lag5": 57.0,
+      "AQI_lag7": 81.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ernakulam": {
+    "Elevation": 26.2041,
+    "Slope": 0.7136,
+    "TPI": -2.2041,
+    "Industry": 4.6326,
+    "latest": {
+      "AQI": 46.0,
+      "AQI_lag1": 50.0,
+      "AQI_lag3": 52.0,
+      "AQI_lag5": 52.0,
+      "AQI_lag7": 51.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Faridabad": {
+    "Elevation": 205.5102,
+    "Slope": 0.3015,
+    "TPI": -3.5102,
+    "Industry": 37.3837,
+    "latest": {
+      "AQI": 198.0,
+      "AQI_lag1": 198.0,
+      "AQI_lag3": 201.0,
+      "AQI_lag5": 182.0,
+      "AQI_lag7": 190.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Fatehabad": {
+    "Elevation": 216.3061,
+    "Slope": 0.2198,
+    "TPI": -1.3061,
+    "Industry": 20.4122,
+    "latest": {
+      "AQI": 286.0,
+      "AQI_lag1": 305.0,
+      "AQI_lag3": 145.0,
+      "AQI_lag5": 216.0,
+      "AQI_lag7": 165.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Firozabad": {
+    "Elevation": 165.1224,
+    "Slope": 0.1899,
+    "TPI": 0.8776,
+    "Industry": 10.0235,
+    "latest": {
+      "AQI": 102.0,
+      "AQI_lag1": 92.0,
+      "AQI_lag3": 128.0,
+      "AQI_lag5": 83.0,
+      "AQI_lag7": 128.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Gadag": {
+    "Elevation": 663.7347,
+    "Slope": 0.5506,
+    "TPI": -2.7347,
+    "Industry": 8.0286,
+    "latest": {
+      "AQI": 48.0,
+      "AQI_lag1": 63.0,
+      "AQI_lag3": 64.0,
+      "AQI_lag5": 56.0,
+      "AQI_lag7": 44.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "GandhiNagar": {
+    "Elevation": 80.2245,
+    "Slope": 0.3485,
+    "TPI": -0.2245,
+    "Industry": 11.6605,
+    "latest": {
+      "AQI": 90.0,
+      "AQI_lag1": 150.0,
+      "AQI_lag3": 99.0,
+      "AQI_lag5": 93.0,
+      "AQI_lag7": 81.0,
+      "PM2.5": 57.5,
+      "PM2.5_lag3": 58.6,
+      "PM2.5_lag7": 61.2,
+      "PM10": 99.6,
+      "NO2": 39.3,
+      "SO2": 18.8
+    }
+  },
+  "Gandhinagar": {
+    "Elevation": 80.2245,
+    "Slope": 0.3485,
+    "TPI": -0.2245,
+    "Industry": 11.6605,
+    "latest": {
+      "AQI": 84.0,
+      "AQI_lag1": 97.0,
+      "AQI_lag3": 106.0,
+      "AQI_lag5": 186.0,
+      "AQI_lag7": 89.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Gangtok": {
+    "Elevation": 60.4694,
+    "Slope": 0.2142,
+    "TPI": 1.5306,
+    "Industry": 2.3148,
+    "latest": {
+      "AQI": 33.0,
+      "AQI_lag1": 33.0,
+      "AQI_lag3": 30.0,
+      "AQI_lag5": 34.0,
+      "AQI_lag7": 33.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Gaya": {
+    "Elevation": 73.9388,
+    "Slope": 0.6251,
+    "TPI": 8.0612,
+    "Industry": 22.7041,
+    "latest": {
+      "AQI": 124.0,
+      "AQI_lag1": 126.0,
+      "AQI_lag3": 101.0,
+      "AQI_lag5": 127.0,
+      "AQI_lag7": 150.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ghaziabad": {
+    "Elevation": 217.449,
+    "Slope": 0.2241,
+    "TPI": 0.551,
+    "Industry": 33.3113,
+    "latest": {
+      "AQI": 307.0,
+      "AQI_lag1": 298.0,
+      "AQI_lag3": 252.0,
+      "AQI_lag5": 324.0,
+      "AQI_lag7": 333.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Gorakhpur": {
+    "Elevation": 80.3469,
+    "Slope": 0.3275,
+    "TPI": 1.6531,
+    "Industry": 10.4999,
+    "latest": {
+      "AQI": 168.0,
+      "AQI_lag1": 114.0,
+      "AQI_lag3": 280.0,
+      "AQI_lag5": 110.0,
+      "AQI_lag7": 119.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Greater Noida": {
+    "Elevation": 196.6531,
+    "Slope": 0.3032,
+    "TPI": 2.3469,
+    "Industry": 38.368,
+    "latest": {
+      "AQI": 278.0,
+      "AQI_lag1": 270.0,
+      "AQI_lag3": 280.0,
+      "AQI_lag5": 282.0,
+      "AQI_lag7": 287.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Greater_Noida": {
+    "Elevation": 196.6531,
+    "Slope": 0.3032,
+    "TPI": 2.3469,
+    "Industry": 38.368,
+    "latest": {
+      "AQI": 159.0,
+      "AQI_lag1": 246.0,
+      "AQI_lag3": 224.0,
+      "AQI_lag5": 232.0,
+      "AQI_lag7": 197.0,
+      "PM2.5": 57.5,
+      "PM2.5_lag3": 58.6,
+      "PM2.5_lag7": 61.2,
+      "PM10": 99.6,
+      "NO2": 39.3,
+      "SO2": 18.8
+    }
+  },
+  "Gummidipoondi": {
+    "Elevation": 13.5306,
+    "Slope": 0.4109,
+    "TPI": -1.5306,
+    "Industry": 21.9158,
+    "latest": {
+      "AQI": 99.0,
+      "AQI_lag1": 153.0,
+      "AQI_lag3": 64.0,
+      "AQI_lag5": 81.0,
+      "AQI_lag7": 147.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Gurugram": {
+    "Elevation": 226.3061,
+    "Slope": 0.316,
+    "TPI": 0.6939,
+    "Industry": 28.7549,
+    "latest": {
+      "AQI": 236.0,
+      "AQI_lag1": 234.0,
+      "AQI_lag3": 208.0,
+      "AQI_lag5": 370.0,
+      "AQI_lag7": 245.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Guwahati": {
+    "Elevation": 59.4082,
+    "Slope": 0.6629,
+    "TPI": -3.4082,
+    "Industry": 1.1008,
+    "latest": {
+      "AQI": 76.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 82.0,
+      "AQI_lag5": 144.0,
+      "AQI_lag7": 75.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Gwalior": {
+    "Elevation": 226.102,
+    "Slope": 0.7835,
+    "TPI": -5.102,
+    "Industry": 10.5364,
+    "latest": {
+      "AQI": 187.0,
+      "AQI_lag1": 178.0,
+      "AQI_lag3": 241.0,
+      "AQI_lag5": 229.0,
+      "AQI_lag7": 170.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hajipur": {
+    "Elevation": 55.6122,
+    "Slope": 0.215,
+    "TPI": 0.3878,
+    "Industry": 12.814,
+    "latest": {
+      "AQI": 148.0,
+      "AQI_lag1": 200.0,
+      "AQI_lag3": 245.0,
+      "AQI_lag5": 291.0,
+      "AQI_lag7": 216.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Haldia": {
+    "Elevation": 7.5306,
+    "Slope": 0.326,
+    "TPI": 1.4694,
+    "Industry": 21.8721,
+    "latest": {
+      "AQI": 117.0,
+      "AQI_lag1": 172.0,
+      "AQI_lag3": 156.0,
+      "AQI_lag5": 247.0,
+      "AQI_lag7": 121.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hanumangarh": {
+    "Elevation": 182.1429,
+    "Slope": 0.1927,
+    "TPI": -0.1429,
+    "Industry": 13.2733,
+    "latest": {
+      "AQI": 205.0,
+      "AQI_lag1": 242.0,
+      "AQI_lag3": 245.0,
+      "AQI_lag5": 274.0,
+      "AQI_lag7": 221.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hapur": {
+    "Elevation": 213.5102,
+    "Slope": 0.2029,
+    "TPI": -0.5102,
+    "Industry": 24.0254,
+    "latest": {
+      "AQI": 230.0,
+      "AQI_lag1": 226.0,
+      "AQI_lag3": 279.0,
+      "AQI_lag5": 314.0,
+      "AQI_lag7": 306.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hassan": {
+    "Elevation": 978.0816,
+    "Slope": 0.8037,
+    "TPI": 6.9184,
+    "Industry": 3.5511,
+    "latest": {
+      "AQI": 55.0,
+      "AQI_lag1": 47.0,
+      "AQI_lag3": 65.0,
+      "AQI_lag5": 55.0,
+      "AQI_lag7": 29.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Haveri": {
+    "Elevation": 580.0612,
+    "Slope": 0.5857,
+    "TPI": 1.9388,
+    "Industry": 6.0764,
+    "latest": {
+      "AQI": 60.0,
+      "AQI_lag1": 95.0,
+      "AQI_lag3": 66.0,
+      "AQI_lag5": 51.0,
+      "AQI_lag7": 46.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hisar": {
+    "Elevation": 215.4286,
+    "Slope": 0.2725,
+    "TPI": 0.5714,
+    "Industry": 25.252,
+    "latest": {
+      "AQI": 171.0,
+      "AQI_lag1": 204.0,
+      "AQI_lag3": 272.0,
+      "AQI_lag5": 148.0,
+      "AQI_lag7": 211.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hosur": {
+    "Elevation": 885.0408,
+    "Slope": 0.8025,
+    "TPI": 7.9592,
+    "Industry": 8.1098,
+    "latest": {
+      "AQI": 64.0,
+      "AQI_lag1": 52.0,
+      "AQI_lag3": 122.0,
+      "AQI_lag5": 91.0,
+      "AQI_lag7": 49.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Howrah": {
+    "Elevation": 9.4694,
+    "Slope": 0.321,
+    "TPI": 0.5306,
+    "Industry": 22.7694,
+    "latest": {
+      "AQI": 94.0,
+      "AQI_lag1": 166.0,
+      "AQI_lag3": 149.0,
+      "AQI_lag5": 205.0,
+      "AQI_lag7": 118.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hubballi": {
+    "Elevation": 625.9388,
+    "Slope": 0.7458,
+    "TPI": 5.0612,
+    "Industry": 6.791,
+    "latest": {
+      "AQI": 40.0,
+      "AQI_lag1": 40.0,
+      "AQI_lag3": 44.0,
+      "AQI_lag5": 52.0,
+      "AQI_lag7": 50.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Hyderabad": {
+    "Elevation": 509.9184,
+    "Slope": 0.6292,
+    "TPI": 1.0816,
+    "Industry": 11.0295,
+    "latest": {
+      "AQI": 63.0,
+      "AQI_lag1": 69.0,
+      "AQI_lag3": 69.0,
+      "AQI_lag5": 116.0,
+      "AQI_lag7": 109.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Imphal": {
+    "Elevation": 1482.6122,
+    "Slope": 0.8835,
+    "TPI": 1.3878,
+    "Industry": 0.4864,
+    "latest": {
+      "AQI": 111.0,
+      "AQI_lag1": 111.0,
+      "AQI_lag3": 110.0,
+      "AQI_lag5": 109.0,
+      "AQI_lag7": 110.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Indore": {
+    "Elevation": 553.7347,
+    "Slope": 0.4772,
+    "TPI": 0.2653,
+    "Industry": 10.6044,
+    "latest": {
+      "AQI": 37.0,
+      "AQI_lag1": 81.0,
+      "AQI_lag3": 96.0,
+      "AQI_lag5": 198.0,
+      "AQI_lag7": 84.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jabalpur": {
+    "Elevation": 402.3469,
+    "Slope": 0.4813,
+    "TPI": -1.3469,
+    "Industry": 24.7483,
+    "latest": {
+      "AQI": 150.0,
+      "AQI_lag1": 162.0,
+      "AQI_lag3": 78.0,
+      "AQI_lag5": 203.0,
+      "AQI_lag7": 91.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jaipur": {
+    "Elevation": 441.9592,
+    "Slope": 0.4331,
+    "TPI": -0.9592,
+    "Industry": 10.0895,
+    "latest": {
+      "AQI": 151.0,
+      "AQI_lag1": 151.0,
+      "AQI_lag3": 139.0,
+      "AQI_lag5": 272.0,
+      "AQI_lag7": 139.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jaisalmer": {
+    "Elevation": 236.6939,
+    "Slope": 0.7779,
+    "TPI": 27.3061,
+    "Industry": 2.1115,
+    "latest": {
+      "AQI": 112.0,
+      "AQI_lag1": 134.0,
+      "AQI_lag3": 142.0,
+      "AQI_lag5": 234.0,
+      "AQI_lag7": 116.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jalandhar": {
+    "Elevation": 234.9388,
+    "Slope": 0.237,
+    "TPI": -0.9388,
+    "Industry": 9.2573,
+    "latest": {
+      "AQI": 198.0,
+      "AQI_lag1": 158.0,
+      "AQI_lag3": 225.0,
+      "AQI_lag5": 247.0,
+      "AQI_lag7": 128.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jalgaon": {
+    "Elevation": 233.449,
+    "Slope": 0.4419,
+    "TPI": -0.449,
+    "Industry": 11.0065,
+    "latest": {
+      "AQI": 44.0,
+      "AQI_lag1": 40.0,
+      "AQI_lag3": 101.0,
+      "AQI_lag5": 141.0,
+      "AQI_lag7": 125.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jalna": {
+    "Elevation": 538.0204,
+    "Slope": 0.7973,
+    "TPI": -1.0204,
+    "Industry": 6.295,
+    "latest": {
+      "AQI": 44.0,
+      "AQI_lag1": 44.0,
+      "AQI_lag3": 168.0,
+      "AQI_lag5": 120.0,
+      "AQI_lag7": 79.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jalore": {
+    "Elevation": 116.0408,
+    "Slope": 0.2657,
+    "TPI": -1.0408,
+    "Industry": 4.8259,
+    "latest": {
+      "AQI": 103.0,
+      "AQI_lag1": 116.0,
+      "AQI_lag3": 146.0,
+      "AQI_lag5": 249.0,
+      "AQI_lag7": 194.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jhalawar": {
+    "Elevation": 328.9796,
+    "Slope": 0.7446,
+    "TPI": -4.9796,
+    "Industry": 16.9377,
+    "latest": {
+      "AQI": 221.0,
+      "AQI_lag1": 212.0,
+      "AQI_lag3": 195.0,
+      "AQI_lag5": 201.0,
+      "AQI_lag7": 112.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jhansi": {
+    "Elevation": 204.9592,
+    "Slope": 0.4175,
+    "TPI": -2.9592,
+    "Industry": 20.9103,
+    "latest": {
+      "AQI": 78.0,
+      "AQI_lag1": 80.0,
+      "AQI_lag3": 89.0,
+      "AQI_lag5": 189.0,
+      "AQI_lag7": 79.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jhunjhunu": {
+    "Elevation": 347.551,
+    "Slope": 0.2547,
+    "TPI": -0.551,
+    "Industry": 12.97,
+    "latest": {
+      "AQI": 120.0,
+      "AQI_lag1": 117.0,
+      "AQI_lag3": 168.0,
+      "AQI_lag5": 238.0,
+      "AQI_lag7": 182.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jind": {
+    "Elevation": 227.4286,
+    "Slope": 0.4509,
+    "TPI": 3.5714,
+    "Industry": 21.3108,
+    "latest": {
+      "AQI": 293.0,
+      "AQI_lag1": 239.0,
+      "AQI_lag3": 319.0,
+      "AQI_lag5": 248.0,
+      "AQI_lag7": 164.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jodhpur": {
+    "Elevation": 246.2449,
+    "Slope": 0.7022,
+    "TPI": -5.2449,
+    "Industry": 2.5301,
+    "latest": {
+      "AQI": 113.0,
+      "AQI_lag1": 119.0,
+      "AQI_lag3": 145.0,
+      "AQI_lag5": 193.0,
+      "AQI_lag7": 133.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Jorapokhar": {
+    "Elevation": 187.8163,
+    "Slope": 0.708,
+    "TPI": 6.1837,
+    "Industry": 34.7326,
+    "latest": {
+      "AQI": 32.0,
+      "AQI_lag1": 66.0,
+      "AQI_lag3": 38.0,
+      "AQI_lag5": 69.0,
+      "AQI_lag7": 64.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kadapa": {
+    "Elevation": 134.0816,
+    "Slope": 0.3535,
+    "TPI": -2.0816,
+    "Industry": 14.0258,
+    "latest": {
+      "AQI": 58.0,
+      "AQI_lag1": 56.0,
+      "AQI_lag3": 59.0,
+      "AQI_lag5": 53.0,
+      "AQI_lag7": 60.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kaithal": {
+    "Elevation": 238.4898,
+    "Slope": 0.5158,
+    "TPI": -0.4898,
+    "Industry": 18.8111,
+    "latest": {
+      "AQI": 283.0,
+      "AQI_lag1": 297.0,
+      "AQI_lag3": 273.0,
+      "AQI_lag5": 161.0,
+      "AQI_lag7": 65.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kalaburagi": {
+    "Elevation": 442.0612,
+    "Slope": 0.7673,
+    "TPI": -10.0612,
+    "Industry": 8.4434,
+    "latest": {
+      "AQI": 53.0,
+      "AQI_lag1": 60.0,
+      "AQI_lag3": 80.0,
+      "AQI_lag5": 53.0,
+      "AQI_lag7": 49.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kalaburgi": {
+    "Elevation": 433.5918,
+    "Slope": 0.7166,
+    "TPI": -2.5918,
+    "Industry": 11.8961,
+    "latest": {
+      "AQI": 76.0,
+      "AQI_lag1": 28.0,
+      "AQI_lag3": 78.0,
+      "AQI_lag5": 75.0,
+      "AQI_lag7": 29.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kalyan": {
+    "Elevation": 13.2449,
+    "Slope": 0.5179,
+    "TPI": 3.7551,
+    "Industry": 18.3882,
+    "latest": {
+      "AQI": 54.0,
+      "AQI_lag1": 44.0,
+      "AQI_lag3": 130.0,
+      "AQI_lag5": 249.0,
+      "AQI_lag7": 132.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kanchipuram": {
+    "Elevation": 30.3469,
+    "Slope": 0.318,
+    "TPI": -1.3469,
+    "Industry": 17.794,
+    "latest": {
+      "AQI": 30.0,
+      "AQI_lag1": 30.0,
+      "AQI_lag3": 71.0,
+      "AQI_lag5": 126.0,
+      "AQI_lag7": 62.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kannur": {
+    "Elevation": 20.4898,
+    "Slope": 0.7198,
+    "TPI": 1.5102,
+    "Industry": 2.2571,
+    "latest": {
+      "AQI": 58.0,
+      "AQI_lag1": 55.0,
+      "AQI_lag3": 58.0,
+      "AQI_lag5": 58.0,
+      "AQI_lag7": 57.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kanpur": {
+    "Elevation": 131.6531,
+    "Slope": 0.268,
+    "TPI": 0.3469,
+    "Industry": 7.7105,
+    "latest": {
+      "AQI": 100.0,
+      "AQI_lag1": 120.0,
+      "AQI_lag3": 220.0,
+      "AQI_lag5": 229.0,
+      "AQI_lag7": 201.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Karauli": {
+    "Elevation": 280.2041,
+    "Slope": 0.7528,
+    "TPI": 8.7959,
+    "Industry": 11.5312,
+    "latest": {
+      "AQI": 162.0,
+      "AQI_lag1": 176.0,
+      "AQI_lag3": 268.0,
+      "AQI_lag5": 216.0,
+      "AQI_lag7": 126.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Karnal": {
+    "Elevation": 250.6939,
+    "Slope": 0.2069,
+    "TPI": 0.3061,
+    "Industry": 19.6065,
+    "latest": {
+      "AQI": 269.0,
+      "AQI_lag1": 183.0,
+      "AQI_lag3": 266.0,
+      "AQI_lag5": 125.0,
+      "AQI_lag7": 138.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Karur": {
+    "Elevation": 122.8571,
+    "Slope": 0.4891,
+    "TPI": 0.1429,
+    "Industry": 8.1193,
+    "latest": {
+      "AQI": 31.0,
+      "AQI_lag1": 19.0,
+      "AQI_lag3": 28.0,
+      "AQI_lag5": 47.0,
+      "AQI_lag7": 20.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Karwar": {
+    "Elevation": 21.1837,
+    "Slope": 0.9134,
+    "TPI": -10.1837,
+    "Industry": 3.8054,
+    "latest": {
+      "AQI": 34.0,
+      "AQI_lag1": 51.0,
+      "AQI_lag3": 27.0,
+      "AQI_lag5": 26.0,
+      "AQI_lag7": 27.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kashipur": {
+    "Elevation": 237.3673,
+    "Slope": 0.3823,
+    "TPI": -0.3673,
+    "Industry": 11.8756,
+    "latest": {
+      "AQI": 107.0,
+      "AQI_lag1": 90.0,
+      "AQI_lag3": 146.0,
+      "AQI_lag5": 152.0,
+      "AQI_lag7": 110.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Katihar": {
+    "Elevation": 31.1837,
+    "Slope": 0.2365,
+    "TPI": -1.1837,
+    "Industry": 16.5893,
+    "latest": {
+      "AQI": 92.0,
+      "AQI_lag1": 85.0,
+      "AQI_lag3": 133.0,
+      "AQI_lag5": 106.0,
+      "AQI_lag7": 92.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Katni": {
+    "Elevation": 410.8571,
+    "Slope": 0.4465,
+    "TPI": 3.1429,
+    "Industry": 28.6305,
+    "latest": {
+      "AQI": 122.0,
+      "AQI_lag1": 137.0,
+      "AQI_lag3": 108.0,
+      "AQI_lag5": 165.0,
+      "AQI_lag7": 108.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Keonjhar": {
+    "Elevation": 624.5306,
+    "Slope": 0.9393,
+    "TPI": -28.5306,
+    "Industry": 21.5451,
+    "latest": {
+      "AQI": 154.0,
+      "AQI_lag1": 132.0,
+      "AQI_lag3": 51.0,
+      "AQI_lag5": 128.0,
+      "AQI_lag7": 107.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Khanna": {
+    "Elevation": 266.7959,
+    "Slope": 0.2636,
+    "TPI": 1.2041,
+    "Industry": 17.5796,
+    "latest": {
+      "AQI": 119.0,
+      "AQI_lag1": 144.0,
+      "AQI_lag3": 138.0,
+      "AQI_lag5": 139.0,
+      "AQI_lag7": 98.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Khurja": {
+    "Elevation": 200.898,
+    "Slope": 0.377,
+    "TPI": 3.102,
+    "Industry": 20.0561,
+    "latest": {
+      "AQI": 169.0,
+      "AQI_lag1": 194.0,
+      "AQI_lag3": 196.0,
+      "AQI_lag5": 188.0,
+      "AQI_lag7": 231.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kishanganj": {
+    "Elevation": 60.4694,
+    "Slope": 0.2142,
+    "TPI": 1.5306,
+    "Industry": 6.9317,
+    "latest": {
+      "AQI": 129.0,
+      "AQI_lag1": 143.0,
+      "AQI_lag3": 179.0,
+      "AQI_lag5": 100.0,
+      "AQI_lag7": 136.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kochi": {
+    "Elevation": 4.6735,
+    "Slope": 0.4988,
+    "TPI": 6.3265,
+    "Industry": 4.7521,
+    "latest": {
+      "AQI": 67.0,
+      "AQI_lag1": 69.0,
+      "AQI_lag3": 75.0,
+      "AQI_lag5": 102.0,
+      "AQI_lag7": 71.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kohima": {
+    "Elevation": 1482.6122,
+    "Slope": 0.8835,
+    "TPI": 1.3878,
+    "Industry": 0.404,
+    "latest": {
+      "AQI": 73.0,
+      "AQI_lag1": 72.0,
+      "AQI_lag3": 70.0,
+      "AQI_lag5": 71.0,
+      "AQI_lag7": 72.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kolar": {
+    "Elevation": 800.4082,
+    "Slope": 0.5411,
+    "TPI": -4.4082,
+    "Industry": 10.5961,
+    "latest": {
+      "AQI": 82.0,
+      "AQI_lag1": 77.0,
+      "AQI_lag3": 58.0,
+      "AQI_lag5": 65.0,
+      "AQI_lag7": 68.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kolhapur": {
+    "Elevation": 561.3265,
+    "Slope": 0.6471,
+    "TPI": 4.6735,
+    "Industry": 5.9531,
+    "latest": {
+      "AQI": 19.0,
+      "AQI_lag1": 19.0,
+      "AQI_lag3": 57.0,
+      "AQI_lag5": 114.0,
+      "AQI_lag7": 86.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kolkata": {
+    "Elevation": 11.8367,
+    "Slope": 0.3472,
+    "TPI": 1.1633,
+    "Industry": 20.772,
+    "latest": {
+      "AQI": 85.0,
+      "AQI_lag1": 142.0,
+      "AQI_lag3": 128.0,
+      "AQI_lag5": 174.0,
+      "AQI_lag7": 106.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kollam": {
+    "Elevation": 13.6531,
+    "Slope": 0.5653,
+    "TPI": 2.3469,
+    "Industry": 3.8005,
+    "latest": {
+      "AQI": 31.0,
+      "AQI_lag1": 38.0,
+      "AQI_lag3": 48.0,
+      "AQI_lag5": 34.0,
+      "AQI_lag7": 34.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Koppal": {
+    "Elevation": 559.898,
+    "Slope": 0.5707,
+    "TPI": -1.898,
+    "Industry": 11.5855,
+    "latest": {
+      "AQI": 31.0,
+      "AQI_lag1": 55.0,
+      "AQI_lag3": 31.0,
+      "AQI_lag5": 28.0,
+      "AQI_lag7": 30.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Korba": {
+    "Elevation": 298.898,
+    "Slope": 0.7467,
+    "TPI": -5.898,
+    "Industry": 90.5887,
+    "latest": {
+      "AQI": 67.0,
+      "AQI_lag1": 68.0,
+      "AQI_lag3": 68.0,
+      "AQI_lag5": 68.0,
+      "AQI_lag7": 41.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kota": {
+    "Elevation": 266.6122,
+    "Slope": 0.5773,
+    "TPI": 1.3878,
+    "Industry": 41.6649,
+    "latest": {
+      "AQI": 206.0,
+      "AQI_lag1": 265.0,
+      "AQI_lag3": 204.0,
+      "AQI_lag5": 273.0,
+      "AQI_lag7": 139.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kozhikode": {
+    "Elevation": 9.2653,
+    "Slope": 0.5528,
+    "TPI": 4.7347,
+    "Industry": 3.7934,
+    "latest": {
+      "AQI": 99.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 75.0,
+      "AQI_lag5": 97.0,
+      "AQI_lag7": 87.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kunjemura": {
+    "Elevation": 268.0408,
+    "Slope": 0.6986,
+    "TPI": 4.9592,
+    "Industry": 100.0,
+    "latest": {
+      "AQI": 65.0,
+      "AQI_lag1": 65.0,
+      "AQI_lag3": 58.0,
+      "AQI_lag5": 42.0,
+      "AQI_lag7": 74.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Kurukshetra": {
+    "Elevation": 256.7347,
+    "Slope": 0.2882,
+    "TPI": 3.2653,
+    "Industry": 18.2585,
+    "latest": {
+      "AQI": 234.0,
+      "AQI_lag1": 210.0,
+      "AQI_lag3": 259.0,
+      "AQI_lag5": 208.0,
+      "AQI_lag7": 162.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Latur": {
+    "Elevation": 629.2041,
+    "Slope": 0.6925,
+    "TPI": -2.2041,
+    "Industry": 6.8352,
+    "latest": {
+      "AQI": 26.0,
+      "AQI_lag1": 27.0,
+      "AQI_lag3": 87.0,
+      "AQI_lag5": 94.0,
+      "AQI_lag7": 77.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Lucknow": {
+    "Elevation": 123.449,
+    "Slope": 0.4059,
+    "TPI": 0.551,
+    "Industry": 6.0277,
+    "latest": {
+      "AQI": 155.0,
+      "AQI_lag1": 172.0,
+      "AQI_lag3": 185.0,
+      "AQI_lag5": 250.0,
+      "AQI_lag7": 146.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ludhiana": {
+    "Elevation": 266.7959,
+    "Slope": 0.2636,
+    "TPI": 1.2041,
+    "Industry": 12.8677,
+    "latest": {
+      "AQI": 215.0,
+      "AQI_lag1": 206.0,
+      "AQI_lag3": 235.0,
+      "AQI_lag5": 271.0,
+      "AQI_lag7": 124.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Madikeri": {
+    "Elevation": 1123.6122,
+    "Slope": 0.9527,
+    "TPI": 25.3878,
+    "Industry": 2.5601,
+    "latest": {
+      "AQI": 30.0,
+      "AQI_lag1": 22.0,
+      "AQI_lag3": 16.0,
+      "AQI_lag5": 15.0,
+      "AQI_lag7": 15.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Madurai": {
+    "Elevation": 139.1224,
+    "Slope": 0.4317,
+    "TPI": 0.8776,
+    "Industry": 8.7897,
+    "latest": {
+      "AQI": 60.0,
+      "AQI_lag1": 40.0,
+      "AQI_lag3": 73.0,
+      "AQI_lag5": 25.0,
+      "AQI_lag7": 41.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mahad": {
+    "Elevation": 15.3469,
+    "Slope": 0.87,
+    "TPI": -3.3469,
+    "Industry": 11.2608,
+    "latest": {
+      "AQI": 104.0,
+      "AQI_lag1": 89.0,
+      "AQI_lag3": 108.0,
+      "AQI_lag5": 75.0,
+      "AQI_lag7": 85.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Maihar": {
+    "Elevation": 442.9796,
+    "Slope": 0.9686,
+    "TPI": -42.9796,
+    "Industry": 31.1165,
+    "latest": {
+      "AQI": 121.0,
+      "AQI_lag1": 208.0,
+      "AQI_lag3": 190.0,
+      "AQI_lag5": 92.0,
+      "AQI_lag7": 68.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Malegaon": {
+    "Elevation": 429.6122,
+    "Slope": 0.4675,
+    "TPI": 3.3878,
+    "Industry": 13.7914,
+    "latest": {
+      "AQI": 42.0,
+      "AQI_lag1": 66.0,
+      "AQI_lag3": 93.0,
+      "AQI_lag5": 122.0,
+      "AQI_lag7": 125.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mandi Gobindgarh": {
+    "Elevation": 267.7959,
+    "Slope": 0.2358,
+    "TPI": 1.2041,
+    "Industry": 18.8326,
+    "latest": {
+      "AQI": 127.0,
+      "AQI_lag1": 113.0,
+      "AQI_lag3": 266.0,
+      "AQI_lag5": 297.0,
+      "AQI_lag7": 171.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mandideep": {
+    "Elevation": 456.5918,
+    "Slope": 0.6916,
+    "TPI": 2.4082,
+    "Industry": 16.0285,
+    "latest": {
+      "AQI": 99.0,
+      "AQI_lag1": 205.0,
+      "AQI_lag3": 163.0,
+      "AQI_lag5": 236.0,
+      "AQI_lag7": 277.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mandikhera": {
+    "Elevation": 198.3061,
+    "Slope": 0.2091,
+    "TPI": 1.6939,
+    "Industry": 16.4645,
+    "latest": {
+      "AQI": 92.0,
+      "AQI_lag1": 81.0,
+      "AQI_lag3": 84.0,
+      "AQI_lag5": 87.0,
+      "AQI_lag7": 78.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Manesar": {
+    "Elevation": 287.1224,
+    "Slope": 0.8303,
+    "TPI": -3.1224,
+    "Industry": 23.916,
+    "latest": {
+      "AQI": 280.0,
+      "AQI_lag1": 222.0,
+      "AQI_lag3": 320.0,
+      "AQI_lag5": 212.0,
+      "AQI_lag7": 278.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mangalore": {
+    "Elevation": 29.4082,
+    "Slope": 0.7941,
+    "TPI": 16.5918,
+    "Industry": 10.6675,
+    "latest": {
+      "AQI": 49.0,
+      "AQI_lag1": 57.0,
+      "AQI_lag3": 40.0,
+      "AQI_lag5": 49.0,
+      "AQI_lag7": 59.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Manglore": {
+    "Elevation": 25.5102,
+    "Slope": 0.7913,
+    "TPI": 2.4898,
+    "Industry": 10.8221,
+    "latest": {
+      "AQI": 59.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 48.0,
+      "AQI_lag5": 60.0,
+      "AQI_lag7": 62.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Manguraha": {
+    "Elevation": 62.0816,
+    "Slope": 0.2215,
+    "TPI": -0.0816,
+    "Industry": 8.5528,
+    "latest": {
+      "AQI": 82.0,
+      "AQI_lag1": 85.0,
+      "AQI_lag3": 86.0,
+      "AQI_lag5": 98.0,
+      "AQI_lag7": 62.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Medikeri": {
+    "Elevation": 1154.3469,
+    "Slope": 0.9328,
+    "TPI": -27.3469,
+    "Industry": 2.5622,
+    "latest": {
+      "AQI": 27.0,
+      "AQI_lag1": 27.0,
+      "AQI_lag3": 31.0,
+      "AQI_lag5": 26.0,
+      "AQI_lag7": 21.0,
+      "PM2.5": 71.2,
+      "PM2.5_lag3": 51.8,
+      "PM2.5_lag7": 54.7,
+      "PM10": 100.8,
+      "NO2": 38.3,
+      "SO2": 23.6
+    }
+  },
+  "Meerut": {
+    "Elevation": 225.4898,
+    "Slope": 0.2216,
+    "TPI": -0.4898,
+    "Industry": 20.8253,
+    "latest": {
+      "AQI": 268.0,
+      "AQI_lag1": 258.0,
+      "AQI_lag3": 300.0,
+      "AQI_lag5": 280.0,
+      "AQI_lag7": 251.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Milupara": {
+    "Elevation": 278.5102,
+    "Slope": 0.7733,
+    "TPI": -1.5102,
+    "Industry": 72.0604,
+    "latest": {
+      "AQI": 68.0,
+      "AQI_lag1": 71.0,
+      "AQI_lag3": 36.0,
+      "AQI_lag5": 29.0,
+      "AQI_lag7": 70.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mira-Bhayandar": {
+    "Elevation": 31.9592,
+    "Slope": 0.9142,
+    "TPI": -22.9592,
+    "Industry": 17.9919,
+    "latest": {
+      "AQI": 33.0,
+      "AQI_lag1": 45.0,
+      "AQI_lag3": 125.0,
+      "AQI_lag5": 192.0,
+      "AQI_lag7": 116.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Moradabad": {
+    "Elevation": 195.2857,
+    "Slope": 0.1634,
+    "TPI": -0.2857,
+    "Industry": 11.3182,
+    "latest": {
+      "AQI": 157.0,
+      "AQI_lag1": 132.0,
+      "AQI_lag3": 167.0,
+      "AQI_lag5": 279.0,
+      "AQI_lag7": 154.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Motihari": {
+    "Elevation": 79.449,
+    "Slope": 0.2921,
+    "TPI": 1.551,
+    "Industry": 4.775,
+    "latest": {
+      "AQI": 77.0,
+      "AQI_lag1": 72.0,
+      "AQI_lag3": 67.0,
+      "AQI_lag5": 113.0,
+      "AQI_lag7": 113.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mumbai": {
+    "Elevation": 6.1224,
+    "Slope": 0.564,
+    "TPI": -1.1224,
+    "Industry": 40.6272,
+    "latest": {
+      "AQI": 50.0,
+      "AQI_lag1": 54.0,
+      "AQI_lag3": 108.0,
+      "AQI_lag5": 211.0,
+      "AQI_lag7": 155.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Munger": {
+    "Elevation": 301.0,
+    "Slope": 0.9539,
+    "TPI": 21.0,
+    "Industry": 18.2356,
+    "latest": {
+      "AQI": 89.0,
+      "AQI_lag1": 90.0,
+      "AQI_lag3": 137.0,
+      "AQI_lag5": 163.0,
+      "AQI_lag7": 74.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Muzaffarnagar": {
+    "Elevation": 245.5918,
+    "Slope": 0.1948,
+    "TPI": 0.4082,
+    "Industry": 16.5591,
+    "latest": {
+      "AQI": 267.0,
+      "AQI_lag1": 205.0,
+      "AQI_lag3": 295.0,
+      "AQI_lag5": 210.0,
+      "AQI_lag7": 237.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Muzaffarpur": {
+    "Elevation": 57.0,
+    "Slope": 0.1894,
+    "TPI": 0.0,
+    "Industry": 17.5646,
+    "latest": {
+      "AQI": 87.0,
+      "AQI_lag1": 77.0,
+      "AQI_lag3": 101.0,
+      "AQI_lag5": 189.0,
+      "AQI_lag7": 83.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Mysuru": {
+    "Elevation": 747.8163,
+    "Slope": 0.6869,
+    "TPI": 2.1837,
+    "Industry": 2.5051,
+    "latest": {
+      "AQI": 45.0,
+      "AQI_lag1": 41.0,
+      "AQI_lag3": 41.0,
+      "AQI_lag5": 41.0,
+      "AQI_lag7": 35.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nagaon": {
+    "Elevation": 101.6735,
+    "Slope": 0.9494,
+    "TPI": -34.6735,
+    "Industry": 0.7127,
+    "latest": {
+      "AQI": 59.0,
+      "AQI_lag1": 62.0,
+      "AQI_lag3": 57.0,
+      "AQI_lag5": 56.0,
+      "AQI_lag7": 56.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nagapattinam": {
+    "Elevation": 0.6531,
+    "Slope": 0.2148,
+    "TPI": -0.6531,
+    "Industry": 10.3983,
+    "latest": {
+      "AQI": 39.0,
+      "AQI_lag1": 39.0,
+      "AQI_lag3": 35.0,
+      "AQI_lag5": 50.0,
+      "AQI_lag7": 38.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nagaur": {
+    "Elevation": 246.2449,
+    "Slope": 0.7022,
+    "TPI": -5.2449,
+    "Industry": 3.2388,
+    "latest": {
+      "AQI": 137.0,
+      "AQI_lag1": 141.0,
+      "AQI_lag3": 152.0,
+      "AQI_lag5": 192.0,
+      "AQI_lag7": 150.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nagpur": {
+    "Elevation": 314.3673,
+    "Slope": 0.7044,
+    "TPI": 5.6327,
+    "Industry": 66.9333,
+    "latest": {
+      "AQI": 45.0,
+      "AQI_lag1": 46.0,
+      "AQI_lag3": 113.0,
+      "AQI_lag5": 164.0,
+      "AQI_lag7": 151.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Naharlagun": {
+    "Elevation": 101.6735,
+    "Slope": 0.9494,
+    "TPI": -34.6735,
+    "Industry": 0.5407,
+    "latest": {
+      "AQI": 26.0,
+      "AQI_lag1": 51.0,
+      "AQI_lag3": 61.0,
+      "AQI_lag5": 53.0,
+      "AQI_lag7": 56.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nalbari": {
+    "Elevation": 46.4694,
+    "Slope": 0.2643,
+    "TPI": 0.5306,
+    "Industry": 1.0835,
+    "latest": {
+      "AQI": 101.0,
+      "AQI_lag1": 93.0,
+      "AQI_lag3": 101.0,
+      "AQI_lag5": 147.0,
+      "AQI_lag7": 53.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Namakkal": {
+    "Elevation": 190.7551,
+    "Slope": 0.5406,
+    "TPI": 1.2449,
+    "Industry": 8.8262,
+    "latest": {
+      "AQI": 26.0,
+      "AQI_lag1": 25.0,
+      "AQI_lag3": 98.0,
+      "AQI_lag5": 57.0,
+      "AQI_lag7": 73.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nanded": {
+    "Elevation": 381.9184,
+    "Slope": 0.7705,
+    "TPI": 9.0816,
+    "Industry": 11.2639,
+    "latest": {
+      "AQI": 46.0,
+      "AQI_lag1": 35.0,
+      "AQI_lag3": 49.0,
+      "AQI_lag5": 196.0,
+      "AQI_lag7": 203.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nandesari": {
+    "Elevation": 38.6939,
+    "Slope": 0.455,
+    "TPI": 1.3061,
+    "Industry": 22.1003,
+    "latest": {
+      "AQI": 303.0,
+      "AQI_lag1": 303.0,
+      "AQI_lag3": 274.0,
+      "AQI_lag5": 228.0,
+      "AQI_lag7": 176.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Narnaul": {
+    "Elevation": 309.0204,
+    "Slope": 0.4142,
+    "TPI": 3.9796,
+    "Industry": 16.5405,
+    "latest": {
+      "AQI": 63.0,
+      "AQI_lag1": 64.0,
+      "AQI_lag3": 65.0,
+      "AQI_lag5": 390.0,
+      "AQI_lag7": 289.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nashik": {
+    "Elevation": 574.1429,
+    "Slope": 0.7581,
+    "TPI": -33342.1429,
+    "Industry": 31.3895,
+    "latest": {
+      "AQI": 32.0,
+      "AQI_lag1": 34.0,
+      "AQI_lag3": 66.0,
+      "AQI_lag5": 158.0,
+      "AQI_lag7": 111.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Navi Mumbai": {
+    "Elevation": 10.7755,
+    "Slope": 0.6613,
+    "TPI": 3.2245,
+    "Industry": 29.7716,
+    "latest": {
+      "AQI": 40.0,
+      "AQI_lag1": 58.0,
+      "AQI_lag3": 100.0,
+      "AQI_lag5": 182.0,
+      "AQI_lag7": 167.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Nayagarh": {
+    "Elevation": 155.0408,
+    "Slope": 0.8389,
+    "TPI": -8.0408,
+    "Industry": 12.2891,
+    "latest": {
+      "AQI": 59.0,
+      "AQI_lag1": 56.0,
+      "AQI_lag3": 87.0,
+      "AQI_lag5": 65.0,
+      "AQI_lag7": 79.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Noida": {
+    "Elevation": 202.2041,
+    "Slope": 0.2905,
+    "TPI": 1.7959,
+    "Industry": 46.3226,
+    "latest": {
+      "AQI": 324.0,
+      "AQI_lag1": 324.0,
+      "AQI_lag3": 276.0,
+      "AQI_lag5": 320.0,
+      "AQI_lag7": 329.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ooty": {
+    "Elevation": 2255.9388,
+    "Slope": 0.9514,
+    "TPI": -6.9388,
+    "Industry": 3.5625,
+    "latest": {
+      "AQI": 45.0,
+      "AQI_lag1": 50.0,
+      "AQI_lag3": 47.0,
+      "AQI_lag5": 29.0,
+      "AQI_lag7": 55.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pali": {
+    "Elevation": 276.9184,
+    "Slope": 0.4671,
+    "TPI": -2.9184,
+    "Industry": 5.1441,
+    "latest": {
+      "AQI": 132.0,
+      "AQI_lag1": 127.0,
+      "AQI_lag3": 149.0,
+      "AQI_lag5": 228.0,
+      "AQI_lag7": 130.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Palkalaiperur": {
+    "Elevation": 81.0,
+    "Slope": 0.4318,
+    "TPI": 0.0,
+    "Industry": 8.5432,
+    "latest": {
+      "AQI": 61.0,
+      "AQI_lag1": 58.0,
+      "AQI_lag3": 24.0,
+      "AQI_lag5": 29.0,
+      "AQI_lag7": 28.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Palwal": {
+    "Elevation": 192.9592,
+    "Slope": 0.1839,
+    "TPI": -0.9592,
+    "Industry": 19.8264,
+    "latest": {
+      "AQI": 124.0,
+      "AQI_lag1": 209.0,
+      "AQI_lag3": 84.0,
+      "AQI_lag5": 60.0,
+      "AQI_lag7": 60.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Panchgaon": {
+    "Elevation": 581.102,
+    "Slope": 0.5978,
+    "TPI": 3.898,
+    "Industry": 25.8646,
+    "latest": {
+      "AQI": 82.0,
+      "AQI_lag1": 78.0,
+      "AQI_lag3": 81.0,
+      "AQI_lag5": 95.0,
+      "AQI_lag7": 113.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Panchkula": {
+    "Elevation": 340.0816,
+    "Slope": 0.4884,
+    "TPI": -1.0816,
+    "Industry": 17.8832,
+    "latest": {
+      "AQI": 166.0,
+      "AQI_lag1": 177.0,
+      "AQI_lag3": 268.0,
+      "AQI_lag5": 126.0,
+      "AQI_lag7": 173.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Panipat": {
+    "Elevation": 237.7347,
+    "Slope": 0.5043,
+    "TPI": 9.2653,
+    "Industry": 28.4654,
+    "latest": {
+      "AQI": 306.0,
+      "AQI_lag1": 253.0,
+      "AQI_lag3": 216.0,
+      "AQI_lag5": 118.0,
+      "AQI_lag7": 225.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Parbhani": {
+    "Elevation": 438.2041,
+    "Slope": 0.5582,
+    "TPI": 1.7959,
+    "Industry": 8.1625,
+    "latest": {
+      "AQI": 31.0,
+      "AQI_lag1": 28.0,
+      "AQI_lag3": 59.0,
+      "AQI_lag5": 167.0,
+      "AQI_lag7": 163.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pathardih": {
+    "Elevation": 165.7143,
+    "Slope": 0.6975,
+    "TPI": 7.2857,
+    "Industry": 36.9134,
+    "latest": {
+      "AQI": 22.0,
+      "AQI_lag1": 22.0,
+      "AQI_lag3": 72.0,
+      "AQI_lag5": 140.0,
+      "AQI_lag7": 142.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Patiala": {
+    "Elevation": 244.2449,
+    "Slope": 0.2383,
+    "TPI": -0.2449,
+    "Industry": 18.4148,
+    "latest": {
+      "AQI": 136.0,
+      "AQI_lag1": 122.0,
+      "AQI_lag3": 119.0,
+      "AQI_lag5": 206.0,
+      "AQI_lag7": 108.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Patna": {
+    "Elevation": 55.6122,
+    "Slope": 0.215,
+    "TPI": 0.3878,
+    "Industry": 16.4092,
+    "latest": {
+      "AQI": 139.0,
+      "AQI_lag1": 168.0,
+      "AQI_lag3": 186.0,
+      "AQI_lag5": 226.0,
+      "AQI_lag7": 133.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Perundurai": {
+    "Elevation": 258.8571,
+    "Slope": 0.5251,
+    "TPI": 1.1429,
+    "Industry": 7.9102,
+    "latest": {
+      "AQI": 63.0,
+      "AQI_lag1": 62.0,
+      "AQI_lag3": 61.0,
+      "AQI_lag5": 61.0,
+      "AQI_lag7": 35.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pimpri Chinchwad": {
+    "Elevation": 569.9388,
+    "Slope": 0.6724,
+    "TPI": -2.9388,
+    "Industry": 10.3428,
+    "latest": {
+      "AQI": 172.0,
+      "AQI_lag1": 138.0,
+      "AQI_lag3": 122.0,
+      "AQI_lag5": 175.0,
+      "AQI_lag7": 161.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pimpri-Chinchwad": {
+    "Elevation": 569.9388,
+    "Slope": 0.6724,
+    "TPI": -2.9388,
+    "Industry": 10.3428,
+    "latest": {
+      "AQI": 71.0,
+      "AQI_lag1": 71.0,
+      "AQI_lag3": 104.0,
+      "AQI_lag5": 137.0,
+      "AQI_lag7": 162.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pithampur": {
+    "Elevation": 580.6531,
+    "Slope": 0.7097,
+    "TPI": 2.3469,
+    "Industry": 10.9411,
+    "latest": {
+      "AQI": 54.0,
+      "AQI_lag1": 205.0,
+      "AQI_lag3": 194.0,
+      "AQI_lag5": 276.0,
+      "AQI_lag7": 222.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pratapgarh": {
+    "Elevation": 100.7959,
+    "Slope": 0.219,
+    "TPI": 2.2041,
+    "Industry": 24.4265,
+    "latest": {
+      "AQI": 164.0,
+      "AQI_lag1": 231.0,
+      "AQI_lag3": 165.0,
+      "AQI_lag5": 160.0,
+      "AQI_lag7": 88.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Prayagraj": {
+    "Elevation": 98.9184,
+    "Slope": 0.3891,
+    "TPI": 4.0816,
+    "Industry": 29.5647,
+    "latest": {
+      "AQI": 107.0,
+      "AQI_lag1": 135.0,
+      "AQI_lag3": 147.0,
+      "AQI_lag5": 198.0,
+      "AQI_lag7": 108.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Puducherry": {
+    "Elevation": 3.0816,
+    "Slope": 0.1638,
+    "TPI": -0.0816,
+    "Industry": 14.9134,
+    "latest": {
+      "AQI": 32.0,
+      "AQI_lag1": 27.0,
+      "AQI_lag3": 21.0,
+      "AQI_lag5": 138.0,
+      "AQI_lag7": 17.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pudukottai": {
+    "Elevation": 99.3061,
+    "Slope": 0.5048,
+    "TPI": -0.3061,
+    "Industry": 8.0353,
+    "latest": {
+      "AQI": 41.0,
+      "AQI_lag1": 43.0,
+      "AQI_lag3": 32.0,
+      "AQI_lag5": 52.0,
+      "AQI_lag7": 33.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Pune": {
+    "Elevation": 557.7959,
+    "Slope": 0.6791,
+    "TPI": -3.7959,
+    "Industry": 9.7979,
+    "latest": {
+      "AQI": 53.0,
+      "AQI_lag1": 53.0,
+      "AQI_lag3": 81.0,
+      "AQI_lag5": 129.0,
+      "AQI_lag7": 162.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Purnia": {
+    "Elevation": 40.1633,
+    "Slope": 0.2385,
+    "TPI": -1.1633,
+    "Industry": 14.6429,
+    "latest": {
+      "AQI": 84.0,
+      "AQI_lag1": 64.0,
+      "AQI_lag3": 108.0,
+      "AQI_lag5": 211.0,
+      "AQI_lag7": 94.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Raichur": {
+    "Elevation": 404.9796,
+    "Slope": 0.6989,
+    "TPI": 0.0204,
+    "Industry": 13.5718,
+    "latest": {
+      "AQI": 121.0,
+      "AQI_lag1": 119.0,
+      "AQI_lag3": 119.0,
+      "AQI_lag5": 118.0,
+      "AQI_lag7": 121.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Raipur": {
+    "Elevation": 301.7551,
+    "Slope": 0.5662,
+    "TPI": 6.2449,
+    "Industry": 34.0509,
+    "latest": {
+      "AQI": 77.0,
+      "AQI_lag1": 67.0,
+      "AQI_lag3": 78.0,
+      "AQI_lag5": 40.0,
+      "AQI_lag7": 70.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rairangpur": {
+    "Elevation": 275.898,
+    "Slope": 0.6649,
+    "TPI": 5.102,
+    "Industry": 16.939,
+    "latest": {
+      "AQI": 106.0,
+      "AQI_lag1": 114.0,
+      "AQI_lag3": 95.0,
+      "AQI_lag5": 86.0,
+      "AQI_lag7": 120.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rajamahendravaram": {
+    "Elevation": 30.3469,
+    "Slope": 0.6629,
+    "TPI": 2.6531,
+    "Industry": 32.3209,
+    "latest": {
+      "AQI": 35.0,
+      "AQI_lag1": 98.0,
+      "AQI_lag3": 53.0,
+      "AQI_lag5": 112.0,
+      "AQI_lag7": 60.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rajgir": {
+    "Elevation": 73.9388,
+    "Slope": 0.6251,
+    "TPI": 8.0612,
+    "Industry": 21.826,
+    "latest": {
+      "AQI": 87.0,
+      "AQI_lag1": 88.0,
+      "AQI_lag3": 138.0,
+      "AQI_lag5": 90.0,
+      "AQI_lag7": 89.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rajsamand": {
+    "Elevation": 677.6939,
+    "Slope": 0.6993,
+    "TPI": 6.3061,
+    "Industry": 5.9709,
+    "latest": {
+      "AQI": 105.0,
+      "AQI_lag1": 94.0,
+      "AQI_lag3": 113.0,
+      "AQI_lag5": 208.0,
+      "AQI_lag7": 61.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ramanagara": {
+    "Elevation": 746.9796,
+    "Slope": 0.9617,
+    "TPI": -28.9796,
+    "Industry": 6.4143,
+    "latest": {
+      "AQI": 52.0,
+      "AQI_lag1": 50.0,
+      "AQI_lag3": 51.0,
+      "AQI_lag5": 51.0,
+      "AQI_lag7": 46.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ramanathapuram": {
+    "Elevation": 45.6939,
+    "Slope": 0.1837,
+    "TPI": -0.6939,
+    "Industry": 9.0089,
+    "latest": {
+      "AQI": 33.0,
+      "AQI_lag1": 27.0,
+      "AQI_lag3": 27.0,
+      "AQI_lag5": 60.0,
+      "AQI_lag7": 51.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ranipet": {
+    "Elevation": 158.4082,
+    "Slope": 0.8065,
+    "TPI": 5.5918,
+    "Industry": 13.1029,
+    "latest": {
+      "AQI": 36.0,
+      "AQI_lag1": 97.0,
+      "AQI_lag3": 33.0,
+      "AQI_lag5": 55.0,
+      "AQI_lag7": 55.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ratlam": {
+    "Elevation": 538.5102,
+    "Slope": 0.5408,
+    "TPI": 1.4898,
+    "Industry": 9.2695,
+    "latest": {
+      "AQI": 75.0,
+      "AQI_lag1": 150.0,
+      "AQI_lag3": 129.0,
+      "AQI_lag5": 214.0,
+      "AQI_lag7": 111.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rishikesh": {
+    "Elevation": 363.4286,
+    "Slope": 0.7857,
+    "TPI": 7.5714,
+    "Industry": 10.6951,
+    "latest": {
+      "AQI": 64.0,
+      "AQI_lag1": 52.0,
+      "AQI_lag3": 73.0,
+      "AQI_lag5": 69.0,
+      "AQI_lag7": 63.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rohtak": {
+    "Elevation": 224.5918,
+    "Slope": 0.5264,
+    "TPI": 8.4082,
+    "Industry": 24.1119,
+    "latest": {
+      "AQI": 349.0,
+      "AQI_lag1": 376.0,
+      "AQI_lag3": 290.0,
+      "AQI_lag5": 214.0,
+      "AQI_lag7": 221.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rourkela": {
+    "Elevation": 217.7143,
+    "Slope": 0.9271,
+    "TPI": -11.7143,
+    "Industry": 25.8153,
+    "latest": {
+      "AQI": 111.0,
+      "AQI_lag1": 96.0,
+      "AQI_lag3": 86.0,
+      "AQI_lag5": 101.0,
+      "AQI_lag7": 99.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Rupnagar": {
+    "Elevation": 289.6327,
+    "Slope": 0.4418,
+    "TPI": 0.3673,
+    "Industry": 23.6335,
+    "latest": {
+      "AQI": 153.0,
+      "AQI_lag1": 230.0,
+      "AQI_lag3": 31.0,
+      "AQI_lag5": 89.0,
+      "AQI_lag7": 90.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sagar": {
+    "Elevation": 556.9184,
+    "Slope": 0.9013,
+    "TPI": -16.9184,
+    "Industry": 14.3612,
+    "latest": {
+      "AQI": 134.0,
+      "AQI_lag1": 227.0,
+      "AQI_lag3": 246.0,
+      "AQI_lag5": 299.0,
+      "AQI_lag7": 149.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Saharsa": {
+    "Elevation": 44.1837,
+    "Slope": 0.297,
+    "TPI": -0.1837,
+    "Industry": 14.1427,
+    "latest": {
+      "AQI": 75.0,
+      "AQI_lag1": 91.0,
+      "AQI_lag3": 273.0,
+      "AQI_lag5": 66.0,
+      "AQI_lag7": 30.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Salem": {
+    "Elevation": 390.7143,
+    "Slope": 0.9665,
+    "TPI": -18.7143,
+    "Industry": 9.834,
+    "latest": {
+      "AQI": 70.0,
+      "AQI_lag1": 173.0,
+      "AQI_lag3": 29.0,
+      "AQI_lag5": 31.0,
+      "AQI_lag7": 47.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Samastipur": {
+    "Elevation": 47.3265,
+    "Slope": 0.289,
+    "TPI": -2.3265,
+    "Industry": 16.6097,
+    "latest": {
+      "AQI": 85.0,
+      "AQI_lag1": 128.0,
+      "AQI_lag3": 236.0,
+      "AQI_lag5": 75.0,
+      "AQI_lag7": 56.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sangli": {
+    "Elevation": 639.6939,
+    "Slope": 0.6518,
+    "TPI": 5.3061,
+    "Industry": 6.6362,
+    "latest": {
+      "AQI": 45.0,
+      "AQI_lag1": 33.0,
+      "AQI_lag3": 45.0,
+      "AQI_lag5": 60.0,
+      "AQI_lag7": 148.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sasaram": {
+    "Elevation": 110.7143,
+    "Slope": 0.3443,
+    "TPI": 2.2857,
+    "Industry": 24.5727,
+    "latest": {
+      "AQI": 106.0,
+      "AQI_lag1": 107.0,
+      "AQI_lag3": 136.0,
+      "AQI_lag5": 116.0,
+      "AQI_lag7": 103.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Satna": {
+    "Elevation": 333.3061,
+    "Slope": 0.5364,
+    "TPI": -0.3061,
+    "Industry": 22.8905,
+    "latest": {
+      "AQI": 72.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 71.0,
+      "AQI_lag5": 59.0,
+      "AQI_lag7": 56.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sawai Madhopur": {
+    "Elevation": 246.3061,
+    "Slope": 0.3304,
+    "TPI": 0.6939,
+    "Industry": 11.2678,
+    "latest": {
+      "AQI": 144.0,
+      "AQI_lag1": 156.0,
+      "AQI_lag3": 254.0,
+      "AQI_lag5": 139.0,
+      "AQI_lag7": 181.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Shillong": {
+    "Elevation": 1482.6122,
+    "Slope": 0.8835,
+    "TPI": 1.3878,
+    "Industry": 1.0916,
+    "latest": {
+      "AQI": 15.0,
+      "AQI_lag1": 15.0,
+      "AQI_lag3": 13.0,
+      "AQI_lag5": 17.0,
+      "AQI_lag7": 10.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Shivamogga": {
+    "Elevation": 584.898,
+    "Slope": 0.6829,
+    "TPI": 2.102,
+    "Industry": 4.5862,
+    "latest": {
+      "AQI": 39.0,
+      "AQI_lag1": 55.0,
+      "AQI_lag3": 45.0,
+      "AQI_lag5": 54.0,
+      "AQI_lag7": 52.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sikar": {
+    "Elevation": 394.6939,
+    "Slope": 0.5138,
+    "TPI": 1.3061,
+    "Industry": 9.3522,
+    "latest": {
+      "AQI": 151.0,
+      "AQI_lag1": 186.0,
+      "AQI_lag3": 158.0,
+      "AQI_lag5": 227.0,
+      "AQI_lag7": 159.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Silchar": {
+    "Elevation": 1482.6122,
+    "Slope": 0.8835,
+    "TPI": 1.3878,
+    "Industry": 1.0353,
+    "latest": {
+      "AQI": 56.0,
+      "AQI_lag1": 44.0,
+      "AQI_lag3": 50.0,
+      "AQI_lag5": 52.0,
+      "AQI_lag7": 49.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Siliguri": {
+    "Elevation": 60.4694,
+    "Slope": 0.2142,
+    "TPI": 1.5306,
+    "Industry": 3.9568,
+    "latest": {
+      "AQI": 65.0,
+      "AQI_lag1": 66.0,
+      "AQI_lag3": 111.0,
+      "AQI_lag5": 86.0,
+      "AQI_lag7": 79.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Singrauli": {
+    "Elevation": 362.1633,
+    "Slope": 0.8278,
+    "TPI": -11.1633,
+    "Industry": 80.4768,
+    "latest": {
+      "AQI": 155.0,
+      "AQI_lag1": 201.0,
+      "AQI_lag3": 151.0,
+      "AQI_lag5": 232.0,
+      "AQI_lag7": 163.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sirohi": {
+    "Elevation": 330.3469,
+    "Slope": 0.8665,
+    "TPI": -6.3469,
+    "Industry": 5.0148,
+    "latest": {
+      "AQI": 104.0,
+      "AQI_lag1": 96.0,
+      "AQI_lag3": 106.0,
+      "AQI_lag5": 97.0,
+      "AQI_lag7": 87.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sirsa": {
+    "Elevation": 199.2449,
+    "Slope": 0.2703,
+    "TPI": -1.2449,
+    "Industry": 16.5961,
+    "latest": {
+      "AQI": 193.0,
+      "AQI_lag1": 214.0,
+      "AQI_lag3": 353.0,
+      "AQI_lag5": 54.0,
+      "AQI_lag7": 65.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sivasagar": {
+    "Elevation": 101.6735,
+    "Slope": 0.9494,
+    "TPI": -34.6735,
+    "Industry": 1.6445,
+    "latest": {
+      "AQI": 42.0,
+      "AQI_lag1": 41.0,
+      "AQI_lag3": 48.0,
+      "AQI_lag5": 52.0,
+      "AQI_lag7": 47.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Siwan": {
+    "Elevation": 63.449,
+    "Slope": 0.2287,
+    "TPI": 0.551,
+    "Industry": 12.7843,
+    "latest": {
+      "AQI": 98.0,
+      "AQI_lag1": 95.0,
+      "AQI_lag3": 87.0,
+      "AQI_lag5": 202.0,
+      "AQI_lag7": 122.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Solapur": {
+    "Elevation": 488.4898,
+    "Slope": 0.5463,
+    "TPI": -1.4898,
+    "Industry": 8.3956,
+    "latest": {
+      "AQI": 36.0,
+      "AQI_lag1": 20.0,
+      "AQI_lag3": 44.0,
+      "AQI_lag5": 59.0,
+      "AQI_lag7": 100.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sonipat": {
+    "Elevation": 224.2857,
+    "Slope": 0.5244,
+    "TPI": 2.7143,
+    "Industry": 27.8172,
+    "latest": {
+      "AQI": 220.0,
+      "AQI_lag1": 214.0,
+      "AQI_lag3": 287.0,
+      "AQI_lag5": 182.0,
+      "AQI_lag7": 316.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sri Ganganagar": {
+    "Elevation": 166.8776,
+    "Slope": 0.5031,
+    "TPI": -1.8776,
+    "Industry": 7.5611,
+    "latest": {
+      "AQI": 134.0,
+      "AQI_lag1": 246.0,
+      "AQI_lag3": 187.0,
+      "AQI_lag5": 285.0,
+      "AQI_lag7": 173.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Sri Vijaya Puram": {
+    "Elevation": 39.0408,
+    "Slope": 0.6838,
+    "TPI": 2.9592,
+    "Industry": 0.0,
+    "latest": {
+      "AQI": 43.0,
+      "AQI_lag1": 49.0,
+      "AQI_lag3": 23.0,
+      "AQI_lag5": 37.0,
+      "AQI_lag7": 43.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Srinagar": {
+    "Elevation": 1586.8163,
+    "Slope": 0.3772,
+    "TPI": 1.1837,
+    "Industry": 1.8318,
+    "latest": {
+      "AQI": 141.0,
+      "AQI_lag1": 104.0,
+      "AQI_lag3": 129.0,
+      "AQI_lag5": 130.0,
+      "AQI_lag7": 52.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Suakati": {
+    "Elevation": 629.9592,
+    "Slope": 0.8836,
+    "TPI": -8.9592,
+    "Industry": 20.4912,
+    "latest": {
+      "AQI": 83.0,
+      "AQI_lag1": 54.0,
+      "AQI_lag3": 38.0,
+      "AQI_lag5": 62.0,
+      "AQI_lag7": 60.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Surat": {
+    "Elevation": 38.6939,
+    "Slope": 0.455,
+    "TPI": 1.3061,
+    "Industry": 40.4175,
+    "latest": {
+      "AQI": 57.0,
+      "AQI_lag1": 63.0,
+      "AQI_lag3": 192.0,
+      "AQI_lag5": 97.0,
+      "AQI_lag7": 77.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Talcher": {
+    "Elevation": 83.4694,
+    "Slope": 0.5967,
+    "TPI": 3.5306,
+    "Industry": 53.49,
+    "latest": {
+      "AQI": 119.0,
+      "AQI_lag1": 115.0,
+      "AQI_lag3": 71.0,
+      "AQI_lag5": 141.0,
+      "AQI_lag7": 103.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tensa": {
+    "Elevation": 703.9796,
+    "Slope": 0.9726,
+    "TPI": 37.0204,
+    "Industry": 24.913,
+    "latest": {
+      "AQI": 79.0,
+      "AQI_lag1": 68.0,
+      "AQI_lag3": 58.0,
+      "AQI_lag5": 59.0,
+      "AQI_lag7": 91.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Thane": {
+    "Elevation": 93.1429,
+    "Slope": 0.7714,
+    "TPI": 12.8571,
+    "Industry": 15.6786,
+    "latest": {
+      "AQI": 34.0,
+      "AQI_lag1": 28.0,
+      "AQI_lag3": 99.0,
+      "AQI_lag5": 149.0,
+      "AQI_lag7": 92.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Thanjavur": {
+    "Elevation": 38.4286,
+    "Slope": 0.3103,
+    "TPI": -1.4286,
+    "Industry": 9.372,
+    "latest": {
+      "AQI": 36.0,
+      "AQI_lag1": 25.0,
+      "AQI_lag3": 27.0,
+      "AQI_lag5": 80.0,
+      "AQI_lag7": 27.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Thiruvananthapuram": {
+    "Elevation": 22.7347,
+    "Slope": 0.7453,
+    "TPI": -0.7347,
+    "Industry": 3.7716,
+    "latest": {
+      "AQI": 56.0,
+      "AQI_lag1": 58.0,
+      "AQI_lag3": 59.0,
+      "AQI_lag5": 78.0,
+      "AQI_lag7": 70.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Thoothukudi": {
+    "Elevation": 31.4694,
+    "Slope": 0.2965,
+    "TPI": -0.4694,
+    "Industry": 20.7671,
+    "latest": {
+      "AQI": 71.0,
+      "AQI_lag1": 55.0,
+      "AQI_lag3": 45.0,
+      "AQI_lag5": 130.0,
+      "AQI_lag7": 59.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Thrissur": {
+    "Elevation": 15.551,
+    "Slope": 0.7093,
+    "TPI": 13.449,
+    "Industry": 3.2281,
+    "latest": {
+      "AQI": 56.0,
+      "AQI_lag1": 57.0,
+      "AQI_lag3": 55.0,
+      "AQI_lag5": 48.0,
+      "AQI_lag7": 48.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tiruchirappalli": {
+    "Elevation": 80.8367,
+    "Slope": 0.4454,
+    "TPI": 1.1633,
+    "Industry": 8.5524,
+    "latest": {
+      "AQI": 40.0,
+      "AQI_lag1": 22.0,
+      "AQI_lag3": 78.0,
+      "AQI_lag5": 69.0,
+      "AQI_lag7": 39.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tirumala": {
+    "Elevation": 861.449,
+    "Slope": 0.9479,
+    "TPI": -15.449,
+    "Industry": 13.6405,
+    "latest": {
+      "AQI": 41.0,
+      "AQI_lag1": 33.0,
+      "AQI_lag3": 24.0,
+      "AQI_lag5": 27.0,
+      "AQI_lag7": 31.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tirunelveli": {
+    "Elevation": 112.5102,
+    "Slope": 0.8404,
+    "TPI": -0.5102,
+    "Industry": 6.5583,
+    "latest": {
+      "AQI": 41.0,
+      "AQI_lag1": 42.0,
+      "AQI_lag3": 42.0,
+      "AQI_lag5": 53.0,
+      "AQI_lag7": 40.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tirupati": {
+    "Elevation": 151.551,
+    "Slope": 0.5485,
+    "TPI": 0.449,
+    "Industry": 14.0128,
+    "latest": {
+      "AQI": 69.0,
+      "AQI_lag1": 161.0,
+      "AQI_lag3": 59.0,
+      "AQI_lag5": 84.0,
+      "AQI_lag7": 126.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tiruppur": {
+    "Elevation": 243.1429,
+    "Slope": 0.6353,
+    "TPI": -2.1429,
+    "Industry": 6.7585,
+    "latest": {
+      "AQI": 102.0,
+      "AQI_lag1": 96.0,
+      "AQI_lag3": 64.0,
+      "AQI_lag5": 100.0,
+      "AQI_lag7": 211.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tirupur": {
+    "Elevation": 324.7551,
+    "Slope": 0.662,
+    "TPI": 4.2449,
+    "Industry": 6.806,
+    "latest": {
+      "AQI": 33.0,
+      "AQI_lag1": 35.0,
+      "AQI_lag3": 23.0,
+      "AQI_lag5": 110.0,
+      "AQI_lag7": 46.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tonk": {
+    "Elevation": 274.6531,
+    "Slope": 0.4597,
+    "TPI": 1.3469,
+    "Industry": 7.3964,
+    "latest": {
+      "AQI": 143.0,
+      "AQI_lag1": 144.0,
+      "AQI_lag3": 255.0,
+      "AQI_lag5": 246.0,
+      "AQI_lag7": 179.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tumakuru": {
+    "Elevation": 829.6531,
+    "Slope": 0.6371,
+    "TPI": 4.3469,
+    "Industry": 4.4149,
+    "latest": {
+      "AQI": 53.0,
+      "AQI_lag1": 27.0,
+      "AQI_lag3": 34.0,
+      "AQI_lag5": 31.0,
+      "AQI_lag7": 43.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Tumidih": {
+    "Elevation": 310.2653,
+    "Slope": 0.7086,
+    "TPI": 4.7347,
+    "Industry": 90.4657,
+    "latest": {
+      "AQI": 93.0,
+      "AQI_lag1": 124.0,
+      "AQI_lag3": 72.0,
+      "AQI_lag5": 73.0,
+      "AQI_lag7": 80.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Udaipur": {
+    "Elevation": 677.6939,
+    "Slope": 0.6993,
+    "TPI": 6.3061,
+    "Industry": 5.9341,
+    "latest": {
+      "AQI": 116.0,
+      "AQI_lag1": 110.0,
+      "AQI_lag3": 239.0,
+      "AQI_lag5": 109.0,
+      "AQI_lag7": 114.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Udupi": {
+    "Elevation": 30.4082,
+    "Slope": 0.7346,
+    "TPI": -0.4082,
+    "Industry": 5.4388,
+    "latest": {
+      "AQI": 87.0,
+      "AQI_lag1": 75.0,
+      "AQI_lag3": 89.0,
+      "AQI_lag5": 78.0,
+      "AQI_lag7": 81.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ujjain": {
+    "Elevation": 488.898,
+    "Slope": 0.5324,
+    "TPI": 3.102,
+    "Industry": 9.2985,
+    "latest": {
+      "AQI": 66.0,
+      "AQI_lag1": 60.0,
+      "AQI_lag3": 65.0,
+      "AQI_lag5": 69.0,
+      "AQI_lag7": 84.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Ulhasnagar": {
+    "Elevation": 24.6327,
+    "Slope": 0.7149,
+    "TPI": -1.6327,
+    "Industry": 18.2515,
+    "latest": {
+      "AQI": 57.0,
+      "AQI_lag1": 84.0,
+      "AQI_lag3": 106.0,
+      "AQI_lag5": 176.0,
+      "AQI_lag7": 121.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Vapi": {
+    "Elevation": 12.3878,
+    "Slope": 0.4331,
+    "TPI": 3.6122,
+    "Industry": 15.6759,
+    "latest": {
+      "AQI": 47.0,
+      "AQI_lag1": 68.0,
+      "AQI_lag3": 88.0,
+      "AQI_lag5": 255.0,
+      "AQI_lag7": 240.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Varanasi": {
+    "Elevation": 78.2041,
+    "Slope": 0.5271,
+    "TPI": 2.7959,
+    "Industry": 25.2829,
+    "latest": {
+      "AQI": 81.0,
+      "AQI_lag1": 83.0,
+      "AQI_lag3": 106.0,
+      "AQI_lag5": 156.0,
+      "AQI_lag7": 97.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Vatva": {
+    "Elevation": 45.8163,
+    "Slope": 0.2662,
+    "TPI": 2.1837,
+    "Industry": 14.0158,
+    "latest": {
+      "AQI": 101.0,
+      "AQI_lag1": 78.0,
+      "AQI_lag3": 92.0,
+      "AQI_lag5": 200.0,
+      "AQI_lag7": 57.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Vellore": {
+    "Elevation": 232.7755,
+    "Slope": 0.4138,
+    "TPI": 1.2245,
+    "Industry": 11.8076,
+    "latest": {
+      "AQI": 60.0,
+      "AQI_lag1": 39.0,
+      "AQI_lag3": 105.0,
+      "AQI_lag5": 41.0,
+      "AQI_lag7": 54.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Vijayapura": {
+    "Elevation": 562.1633,
+    "Slope": 0.6918,
+    "TPI": -1.1633,
+    "Industry": 13.273,
+    "latest": {
+      "AQI": 43.0,
+      "AQI_lag1": 43.0,
+      "AQI_lag3": 70.0,
+      "AQI_lag5": 51.0,
+      "AQI_lag7": 44.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Vijayawada": {
+    "Elevation": 29.0408,
+    "Slope": 0.8504,
+    "TPI": -4.0408,
+    "Industry": 36.6936,
+    "latest": {
+      "AQI": 94.0,
+      "AQI_lag1": 60.0,
+      "AQI_lag3": 60.0,
+      "AQI_lag5": 98.0,
+      "AQI_lag7": 56.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Virar": {
+    "Elevation": 5.6735,
+    "Slope": 0.4882,
+    "TPI": 2.3265,
+    "Industry": 15.9445,
+    "latest": {
+      "AQI": 57.0,
+      "AQI_lag1": 98.0,
+      "AQI_lag3": 95.0,
+      "AQI_lag5": 185.0,
+      "AQI_lag7": 75.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Virudhunagar": {
+    "Elevation": 86.6735,
+    "Slope": 0.2939,
+    "TPI": 0.3265,
+    "Industry": 8.4119,
+    "latest": {
+      "AQI": 47.0,
+      "AQI_lag1": 219.0,
+      "AQI_lag3": 27.0,
+      "AQI_lag5": 47.0,
+      "AQI_lag7": 72.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Visakhapatnam": {
+    "Elevation": 12.8367,
+    "Slope": 0.8386,
+    "TPI": -0.8367,
+    "Industry": 18.3397,
+    "latest": {
+      "AQI": 54.0,
+      "AQI_lag1": 57.0,
+      "AQI_lag3": 50.0,
+      "AQI_lag5": 113.0,
+      "AQI_lag7": 175.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Vrindavan": {
+    "Elevation": 174.9388,
+    "Slope": 0.526,
+    "TPI": 0.0612,
+    "Industry": 12.6464,
+    "latest": {
+      "AQI": 124.0,
+      "AQI_lag1": 133.0,
+      "AQI_lag3": 124.0,
+      "AQI_lag5": 137.0,
+      "AQI_lag7": 156.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Yadgir": {
+    "Elevation": 369.4694,
+    "Slope": 0.4723,
+    "TPI": -1.4694,
+    "Industry": 13.6521,
+    "latest": {
+      "AQI": 24.0,
+      "AQI_lag1": 23.0,
+      "AQI_lag3": 23.0,
+      "AQI_lag5": 51.0,
+      "AQI_lag7": 65.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Yamuna Nagar": {
+    "Elevation": 52.8571,
+    "Slope": 0.8342,
+    "TPI": 3.1429,
+    "Industry": 3.9275,
+    "latest": {
+      "AQI": 320.0,
+      "AQI_lag1": 224.0,
+      "AQI_lag3": 102.0,
+      "AQI_lag5": 92.0,
+      "AQI_lag7": 164.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "Yamunanagar": {
+    "Elevation": 278.3265,
+    "Slope": 0.4484,
+    "TPI": 4.6735,
+    "Industry": 27.9796,
+    "latest": {
+      "AQI": 92.0,
+      "AQI_lag1": 64.0,
+      "AQI_lag3": 65.0,
+      "AQI_lag5": 180.0,
+      "AQI_lag7": 125.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  },
+  "vellore": {
+    "Elevation": 232.7755,
+    "Slope": 0.4138,
+    "TPI": 1.2245,
+    "Industry": 11.8076,
+    "latest": {
+      "AQI": 43.0,
+      "AQI_lag1": 53.0,
+      "AQI_lag3": 81.0,
+      "AQI_lag5": 92.0,
+      "AQI_lag7": 107.0,
+      "PM2.5": 56.2,
+      "PM2.5_lag3": 56.2,
+      "PM2.5_lag7": 56.2,
+      "PM10": 91.0,
+      "NO2": 39.6,
+      "SO2": 18.0
+    }
+  }
+}
