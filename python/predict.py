@@ -44,10 +44,24 @@ def compute_pm25_roll7(pm25, pm25_lag3, pm25_lag7):
                     pm25_lag3, pm25_lag7])
 
 def get_seasonal(month):
-    winter  = 1 if month in [11, 12, 1, 2] else 0
-    summer  = 1 if month in [4, 5, 6]      else 0
-    monsoon = 1 if month in [7, 8, 9]      else 0
+    """
+    IMD India Season Definitions (India Meteorological Department)
+    Winter:       December(12), January(1), February(2)  -> winter=1
+    Pre-Monsoon:  March(3), April(4), May(5)              -> summer=1 (model feature)
+    SW Monsoon:   June(6), July(7), August(8), Sep(9)    -> monsoon=1
+    Post-Monsoon: October(10), November(11)              -> all zeros
+    """
+    winter  = 1 if month in [12, 1, 2]    else 0
+    summer  = 1 if month in [3, 4, 5]     else 0
+    monsoon = 1 if month in [6, 7, 8, 9]  else 0
     return winter, summer, monsoon
+
+def get_season_label(month):
+    """Human-readable IMD season name, used in UI output."""
+    if month in [12, 1, 2]:   return 'Winter'
+    if month in [3, 4, 5]:    return 'Pre-Monsoon'
+    if month in [6, 7, 8, 9]: return 'Monsoon'
+    return 'Post-Monsoon'
 
 def main():
     raw = sys.argv[1] if len(sys.argv) > 1 else "{}"
@@ -114,7 +128,7 @@ def main():
             "AQI_roll3":   round(roll3, 1),
             "PM2.5_roll7": round(pm25_r7, 1),
             "month":       month,
-            "season":      "Winter" if winter else ("Summer" if summer else ("Monsoon" if monsoon else "Autumn/Spring"))
+            "season":      get_season_label(month)
         }
     }
 
